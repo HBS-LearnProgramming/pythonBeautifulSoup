@@ -1,115 +1,73 @@
-import os
-import json
+from bs4 import BeautifulSoup
 import requests
 import re
-from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+import json
 
 def soup_generator(url):
     return BeautifulSoup(requests.get(url).text, 'html.parser')
 
-def load_existing_data():
-    if os.path.exists('products.json'):
-        with open('products.json', 'r') as json_file:
-            return json.load(json_file)
-    return []
-
-def get_last_id(existing_data):
-    if existing_data:
-        return max(item['ID'] for item in existing_data)
-    return 0
-
-# Setup Chrome options for Selenium
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--disable-gpu")
-driver_path = 'D:/selfTry/pythonBeautifulSoup/chromedriver-win64/chromedriver.exe'
-
-# Load existing data and start ID counter from the last used ID
-existing_data = load_existing_data()
-last_id = get_last_id(existing_data)
-count = last_id
-
-# Parse the HTML content to find the number of pages
-pageSoup = soup_generator("https://www.newegg.ca/Gaming-Keyboards/SubCategory/ID-3523")
+# Parse the HTML content using BeautifulSoup
+pageSoup = soup_generator("https://www.newegg.ca/d/Best-Sellers/Gaming-Keyboards/s/ID-3523")
 page_text = pageSoup.find('span', class_="list-tool-pagination-text").strong
-page_num = re.findall(r'\d+', str(page_text).split("/")[1])[0]
+page_num = re.findall(r'\d+',str(page_text).split("/")[1])[0]
+productsDetailArr = []
+count = 0
+for x in range(int(page_num)):
 
-productsDetailArr = existing_data  # Start with existing data
-
-# Initialize the WebDriver for Selenium
-driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
-
-for x in range(1, int(page_num) + 1):
     # Find all product title links
-    soup = soup_generator(f"https://www.newegg.ca/Gaming-Keyboards/SubCategory/ID-3523/Page-{x}")
+    soup = soup_generator(f"https://www.newegg.ca/d/Best-Sellers/Gaming-Keyboards/s/ID-3523/Page-{x}")
     products = soup.find_all('div', class_="item-cell")
+
+    # Print the href attribute of each product title link
+    
     
     for product in products:
         productDetailArr = []
         
         item_info = product.find('div', class_='item-info')
-        href = "Unknown href"
-        itemName = "Unknown Name"
+        itemName = item_info.find('a', class_="item-title")
+        itemPrice = product.find('div', class_='item-action').find('ul', class_="price").find('li', class_="price-current").text
         
-        if item_info.find('a', class_="item-title"):
-            itemName = item_info.find('a', class_="item-title").text
-            href = item_info.find('a', class_="item-title").get('href')
-            
-            # Selenium part to scrape detailed product options
-            driver.get(href)
-            WebDriverWait(driver, 10).until(
-                EC.presence_of_all_elements_located((By.CLASS_NAME, "form-cell"))
-            )
-            page_source = driver.page_source
-            soup = BeautifulSoup(page_source, 'html.parser')
-            product_options = soup.find_all('div', class_='form-cell')
-            
-            # Extract product option details
-            product_options_detail = []
-            for option in product_options:
-                optionTypeTitle = option.find('label', class_="form-cell-name")
-                if optionTypeTitle:
-                    optionTypeTitle = optionTypeTitle.text.split(":")[0]
-                else:
-                    optionTypeTitle = "undefined"
-                
-                optionNames = option.find_all('li', class_="form-cell")
-                optionNames = [name.text.strip() for name in optionNames] if optionNames else ["undefined"]
-                
-                product_options_detail.append({
-                    "typeTitle": optionTypeTitle,
-                    "typeName": optionNames
-                })
+        # Attempt to find the rating element and extract the rating number if it exists
+        rating_element = item_info.find('a', class_='item-rating')
+        if rating_element:
+            customerRate = rating_element.find("span", class_="item-rating-num")
+            customerRate = customerRate.text if customerRate else ""
+        else:
+            customerRate = "No rating"
 
         itemPrice = product.find('div', class_='item-action').find('ul', class_="price").find('li', class_="price-current").text
-        rating_element = item_info.find('a', class_='item-rating')
-        customerRate = rating_element.find("span", class_="item-rating-num").text if rating_element else "No rating"
         
+        href = itemName.get('href')
+        reviewPagesoup = soup_generator(href)
         if customerRate != "No rating": 
+            count += 1
             customerRate = re.findall(r'\d+', customerRate)[0]
-        
-        count += 1
-        itemPrice = str(itemPrice).replace("–", " ").replace("-", " ").split("(")[0].strip()
-        
-        productsDetailArr.append({
-            "ID": count,
-            "Product_Name": itemName,
-            "Price": itemPrice,
-            "Rating": customerRate,
-            "URL": href,
-            "detail": product_options_detail
-        })
+            itemPrice = str(itemPrice).replace("–", " ")
+            itemPrice = str(itemPrice).replace("-", " ")
+            itemPrice = itemPrice.split("(")[0]
+            itemPrice = itemPrice.strip()
+            productDetailArr.append(count)
+            productDetailArr.append(itemName.text)
+            productDetailArr.append(itemPrice)
+            productDetailArr.append(customerRate)
+            productDetailArr.append(href)
+            CommentContent = reviewPagesoup.find_all('div', class_ = 'comments-filter-pane')
+            # print(CommentContent)
+        if productDetailArr:
+            productsDetailArr.append({
+                "ID": count,
+                "Product_Name": itemName.text,
+                "Price": itemPrice,
+                "Rating": customerRate,
+                "URL": href
+            })
 
-# Convert the productsDetailArr to JSON format and save to file
+# Convert the productsDetailArr to JSON format
 json_data = json.dumps(productsDetailArr, indent=4)
-with open('products.json', 'w') as json_file, open('backup.json', 'w') as backup_file:
+
+# Save the JSON data to a file
+with open('products.json', 'w') as json_file:
     json_file.write(json_data)
-    backup_file.write(json_data)
 
 print(f"Data has been written to products.json:\n{json_data}")

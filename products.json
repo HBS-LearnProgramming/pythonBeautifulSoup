@@ -1,0 +1,3056 @@
+[
+    {
+        "ID": 1,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK30 Black",
+                    "GK30 White",
+                    "GK100"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Product_Name": "MSI Vigor GK30 Combo White, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$64.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/msi-vigor-gk30-white-gaming-combo-plunger/p/N82E16823167047",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK30 Black",
+                    "GK30 White",
+                    "GK100"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Product_Name": "CORSAIR K70 RGB TKL \u2013 CHAMPION SERIES Tenkeyless Mechanical Gaming Keyboard - CHERRY MX SPEED Keyswitches - Durable Aluminum Frame - Per-Key RGB LED Backlighting - Detachable USB Type-C Cable",
+        "Price": "$199.99",
+        "Rating": "24",
+        "URL": "https://www.newegg.ca/corsair-k70-rgb-champion-series-ch-9119014-na-mechanical-keyboard-cherry-mx-speed/p/N82E16823816146",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "CORSAIR OPX RGB",
+                    "Cherry MX Speed",
+                    "Cherry MX Speed, Tenkeyless"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Product_Name": "Logitech G815 LIGHTSYNC RGB Mechanical Gaming Keyboard with Low Profile GL Tactile key switch, 5 programmable G-keys, USB Passthrough, dedicated media control - Tactile",
+        "Price": "$268.55",
+        "Rating": "75",
+        "URL": "https://www.newegg.ca/black-logitech-g815-lightsync-tactile/p/N82E16823126558",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "Clicky",
+                    "Linear",
+                    "Tactile"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "Product_Name": "Logitech G213 Prodigy Gaming Keyboard with 16.8 Million Lighting Colors",
+        "Price": "$69.99",
+        "Rating": "86",
+        "URL": "https://www.newegg.ca/p/N82E16823126473",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "Product_Name": "ASUS ROG Strix Scope RX TKL Wireless Deluxe - 80% Gaming Keyboard, Tri-Mode Connectivity (2.4GHz RF, Bluetooth, Wired), ROG RX Red Optical Mechanical Switches, PBT Keycaps, RGB, Wrist Rest, Black",
+        "Price": "$189.99",
+        "Rating": "14",
+        "URL": "https://www.newegg.ca/rog-strix-scope-rx-t-deluxe-mechanical-wireless-gaming-keyboard-90mp02j0-bkua01-switch-red/p/N82E16823193121",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "ROG RX Blue Optical",
+                    "ROG RX Red Optical",
+                    "ROG NX Snow"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK30 Black",
+                    "GK30 White",
+                    "GK100"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 8,
+        "Product_Name": "MSI Forge GK100 Combo \u2013 Gaming RGB Keyboard & Mouse Set, 19-Key Anti-Ghosting, 6400 DPI Optical Sensor, 6-Mode RGB, up to 6,400 DPI, Black",
+        "Price": "$34.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/msi-forge-gk100-combo-forgegk100c-mechanical-keyboard-membrane/p/N82E16823167058",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK30 Black",
+                    "GK30 White",
+                    "GK100"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "Product_Name": "ASUS ROG Strix Scope II Full-Size Gaming Keyboard, Dampening Foam, Pre-lubed ROG NX Snow Switches, UV-Coated ABS Keycaps, multi-function controls, hotkeys for Xbox Game Bar and recording, RGB-Black",
+        "Price": "$119.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823193148",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "ROG RX Red Optical",
+                    "ROG NX Snow"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 10,
+        "Product_Name": "MSI Vigor GK30 RGB Gaming Keyboard, 6-Zone RGB Lighting, Water Repellent & Splash-Proof, Mechanical-Like Plunger",
+        "Price": "$49.99",
+        "Rating": "22",
+        "URL": "https://www.newegg.ca/p/N82E16823167034",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 11,
+        "Product_Name": "MSI Vigor GK20 US Gaming Backlit RGB Dedicated Hotkeys Anti-Ghosting Water Resistant Gaming Keyboard",
+        "Price": "$25.99",
+        "Rating": "37",
+        "URL": "https://www.newegg.ca/msi-vigor-gk20-membrane-black/p/N82E16823167040",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK300",
+                    "GK20",
+                    "GK50"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 12,
+        "Product_Name": "MSI Vigor GK71 Sonic AM Mechanical RGB Gaming Keyboard with MSI Sonic Red Switches with wrist rest",
+        "Price": "$119.99",
+        "Rating": "12",
+        "URL": "https://www.newegg.ca/vigor-gk71-sonic-red-am-mechanical-keyboard-msi-sonic-red/p/N82E16823167055",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 13,
+        "Product_Name": "Corsair K70 RGB PRO Wired Mechanical Gaming Keyboard (CHERRY MX RGB Speed Switches: Linear and Rapid, 8,000Hz Hyper-Polling, PBT DOUBLE-SHOT PRO Keycaps, Soft-Touch Palm Rest) QWERTY, NA - Black",
+        "Price": "$254.99",
+        "Rating": "24",
+        "URL": "https://www.newegg.ca/k70-pro-rgb-optical-mechanical-keyboard-corsair-45g-actuation-force-150-million-keystrokes/p/N82E16823816160",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "CORSAIR OPX RGB | $254.99",
+                    "Cherry MX Speed | $215.23",
+                    "Cherry MX Speed, Tenkeyless | $199.99"
+                ]
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "CORSAIR OPX RGB | $254.99",
+                    "Cherry MX Speed | $215.23",
+                    "Cherry MX Speed, Tenkeyless | $199.99"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 14,
+        "Product_Name": "Logitech G413 TKL SE Mechanical Gaming Keyboard - Compact Backlit Keyboard with Tactile Mechanical Switches, Anti-Ghosting, Compatible with Windows, macOS - Black Aluminum",
+        "Price": "$80.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16823126669",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "G413 Tenkeyless",
+                    "G413 Full Size"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 15,
+        "Product_Name": "ASUS ROG Azoth 75 Wireless DIY Custom Gaming Keyboard, OLED display, Gasket-Mount, Three-Layer Dampening, Hot-Swappable Pre-lubed ROG NX Red Switches & Keyboard Stabilizers, PBT Keycaps, RGB-Black",
+        "Price": "$249.99",
+        "Rating": "17",
+        "URL": "https://www.newegg.ca/asus-rog-azoth-75-wireless-diy-custom-keyboard-rog-azoth-nxrd-mechanical-keyboard-rog-nx-red/p/N82E16823193135",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "ROG NX Blue | $344.22",
+                    "ROG NX Brown | $249.99",
+                    "ROG NX Red | $249.99"
+                ]
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "ROG NX Blue | $344.22",
+                    "ROG NX Brown | $249.99",
+                    "ROG NX Red | $249.99"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 16,
+        "Product_Name": "Logitech G715 Wireless Mechanical Gaming Keyboard with LIGHTSYNC RGB Lighting, Lightspeed, Tactile Switches (GX Brown), and Keyboard Palm Rest, PC and Mac Compatible, White Mist",
+        "Price": "$268.55",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/logitech-g715-tactile-switches-gx-brown/p/N82E16823126700",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "Clicky",
+                    "Linear",
+                    "Tactile"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 17,
+        "Product_Name": "Corsair K100 RGB Mechanical Gaming Keyboard - CHERRY MX SPEED RGB Silver Keyswitches - AXON Hyper-Processing Technology for 4x Faster Throughput - 44-Zone RGB LightEdge - PBT Double-Shot Keycaps",
+        "Price": "$349.99",
+        "Rating": "96",
+        "URL": "https://www.newegg.ca/corsair-k100-rgb-ch-912a014-na-mechanical-keyboard-cherry-mx-rgb-speed-silver/p/N82E16823816139",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "K100 RGB Cherry MX | $349.99",
+                    "K100 RGB Corsair OPX | $390.15"
+                ]
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "K100 RGB Cherry MX | $349.99",
+                    "K100 RGB Corsair OPX | $390.15"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 18,
+        "Product_Name": "MSI Vigor GK50 Elite LL Mechanical Gaming Keyboard - Kailh Blue Switches (Clicky), Ergonomic Keycaps, Brushed Metal Finish, Anti-Slip Base, Per-Key RGB Mystic Light, USB 2.0 - Full-Sized",
+        "Price": "$74.99",
+        "Rating": "77",
+        "URL": "https://www.newegg.ca/msi-vigor-gk50-elite-ll-s11-04us256-cla-mechanical-keyboard-kailh-blue/p/N82E16823167039",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK300",
+                    "GK20",
+                    "GK50"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 19,
+        "Product_Name": "Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard, Low Profile Switch Options, LIGHTSYNC RGB, Advanced Wireless and Bluetooth Support - Linear , Black",
+        "Price": "$307.55",
+        "Rating": "52",
+        "URL": "https://www.newegg.ca/logitech-g915-gl-linear/p/N82E16823126614",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "Black, Clicky Switch",
+                    "Black, Linear Switch",
+                    "White, Tactile Switch",
+                    "Black, Tactile Switch"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 20,
+        "Product_Name": "ASUS ROG Azoth 75 Wireless DIY Custom Gaming Keyboard, OLED display, Gasket-Mount, Three-Layer Dampening, Hot-Swappable Pre-lubed ROG NX Brown Switches & Keyboard Stabilizers, PBT Keycaps, RGB-Black",
+        "Price": "$249.99",
+        "Rating": "17",
+        "URL": "https://www.newegg.ca/asus-rog-azoth-nxbn-90mp0317-bkaa01-mechanical-keyboard-rog-nx-brown/p/N82E16823193136",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "ROG NX Blue | $344.22",
+                    "ROG NX Brown | $249.99",
+                    "ROG NX Red | $249.99"
+                ]
+            },
+            {
+                "type_title": "Option",
+                "type_name": [
+                    "ROG NX Blue | $344.22",
+                    "ROG NX Brown | $249.99",
+                    "ROG NX Red | $249.99"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 21,
+        "Product_Name": "MSI Vigor GK71 Sonic AM Mechanical RGB Gaming Keyboard with MSI Sonic Blue Switches",
+        "Price": "$119.99",
+        "Rating": "12",
+        "URL": "https://www.newegg.ca/p/N82E16823167054",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 22,
+        "Product_Name": "Rosewill Blitz K50 RGB BR Wired Gaming Tactile Mechanical Keyboard, Outemu Brown Switches, 14 RGB LED Backlight Effects, NKRO, Anti-Ghosting, 6  Macro Keys, Dedicated Media Controls, USB Passthrough",
+        "Price": "$99.99",
+        "Rating": "39",
+        "URL": "https://www.newegg.ca/rosewill-wired-tactile-mechanical-blitz-k50-rgb-br-mechanical-keyboard-brown-switch/p/N82E16823201132",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 23,
+        "Product_Name": "Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard, Low Profile Switch Options, LIGHTSYNC RGB, Advanced Wireless and Bluetooth Support - Clicky , Black",
+        "Price": "$307.55",
+        "Rating": "52",
+        "URL": "https://www.newegg.ca/logitech-g915-920-009529-mechanical-keyboard-gl-clicky/p/N82E16823126613",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "Black, Clicky Switch",
+                    "Black, Linear Switch",
+                    "White, Tactile Switch",
+                    "Black, Tactile Switch"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 24,
+        "Product_Name": "ASUS ROG Strix Flare II 100% RGB Gaming Keyboard, ROG NX Blue mechanical switches, ABS engraved keycaps, 8k Hz polling, Sound-dampening foam, Media controls, USB passthrough, Wrist rest-Black",
+        "Price": "$199.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/asus-rog-strix-flare-ii-nx-blue-90mp02d8-bkua01-mechanical-keyboard-rog-nx-blue/p/N82E16823193126",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "ROG NX Blue",
+                    "ROG NX Red"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 25,
+        "Product_Name": "Logitech G815 LIGHTSYNC RGB Mechanical Gaming Keyboard with Low Profile GL Linear key switch, 5 programmable G-keys,USB Passthrough, dedicated media control - Linear, Black",
+        "Price": "$268.55",
+        "Rating": "75",
+        "URL": "https://www.newegg.ca/black-logitech-g815-lightsync-linear/p/N82E16823126557",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "Clicky",
+                    "Linear",
+                    "Tactile"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 26,
+        "Product_Name": "Corsair K70 RGB PRO Wired Mechanical Gaming Keyboard (Cherry MX RGB Brown Switches: Tactile & Quiet, 8,000Hz Hyper-Polling, PBT Double-Shot PRO Keycaps, Soft-Touch Palm Rest) QWERTY, NA - Black",
+        "Price": "$244.99",
+        "Rating": "13",
+        "URL": "https://www.newegg.ca/corsair-k70-rgb-pro-cherry-mx-brown-black/p/N82E16823816151",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "Cherry MX Brown",
+                    "Cherry MX RGB Red"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 27,
+        "Product_Name": "Logitech G PRO X TKL Lightspeed Wireless Gaming Keyboard, Ultra-Portable Tenkeyless Design, LIGHTSYNC RGB, PBT keycaps, Tactile Switches (GX Brown) - White",
+        "Price": "$279.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/logitech-pro-x-tkl-lightspeed-920-012143-mechanical-keyboard-gx-brown/p/N82E16823126721",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "G PRO X TKL CLICKY",
+                    "G PRO X TKL LINEAR",
+                    "G PRO X TKL TACTILE"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 28,
+        "Product_Name": "Logitech G PRO X TKL Lightspeed Wireless Gaming Keyboard, Ultra-Portable Tenkeyless Design, LIGHTSYNC RGB, PBT keycaps, Linear Switches (GX Red) - Black",
+        "Price": "$279.00",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823126723",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "G PRO X TKL CLICKY",
+                    "G PRO X TKL LINEAR",
+                    "G PRO X TKL TACTILE"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 29,
+        "Product_Name": "LOGITECH - COMPUTER ACCESSORIES G513 RGB MECHANICAL GAMING KEYB NEW REFRESHED W/GX RED SWITCH INPUT/OUTPUT DEVICES KEYBOARDS & KEYPADS",
+        "Price": "$169.99",
+        "Rating": "39",
+        "URL": "https://www.newegg.ca/logitech-g513-lightsync-rgb-920-009332-mechanical-keyboard-gx-red/p/N82E16823126566",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "GX Brown",
+                    "GX Red"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 30,
+        "Product_Name": "ASUS ROG Azoth 75 Wireless DIY Custom Gaming Keyboard, OLED display, Gasket-Mount, Three-Layer Dampening, Hot-Swappable Pre-lubed ROG NX Snow Switches & Keyboard Stabilizers, PBT Keycaps, RGB - White",
+        "Price": "$329.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/asus-rog-azoth-moonlight-mechanical-keyboard-rog-nx-snow-mechanical-switches/p/N82E16823193145",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 31,
+        "Product_Name": "SteelSeries 64795 Apex 3 Water Resistant Gaming Keyboard, Premium Magnetic Wrist Rest (Whisper Quiet Gaming Switch)",
+        "Price": "$71.99",
+        "Rating": "29",
+        "URL": "https://www.newegg.ca/steelseries-apex-3-rgb-gaming-keyboard-10-zone-rgb-illumination-ip32-water-resistant-premium-m/p/N82E16823239056",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 32,
+        "Product_Name": "CORSAIR K70 CORE RGB Mechanical Gaming Keyboard - CORSAIR Red Linear Switches - Sound Dampening - Rotary Dial - Aluminum Top Plate - Onboard Storage - Black",
+        "Price": "$149.99",
+        "Rating": "7",
+        "URL": "https://www.newegg.ca/p/N82E16823816167",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "K70 MAX RGB",
+                    "K70 CORE RGB"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 33,
+        "Product_Name": "MSI FORGE GK300 Gaming Keyboard, Clicky Blue Mechanical Switches, 9-Mode RGB, Ergonomic Keycaps, Black",
+        "Price": "$39.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/msi-forge-gk300-blue-us-forgegk300-mechanical-keyboard-clicky-mechanical-switches/p/N82E16823167059",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK300",
+                    "GK20",
+                    "GK50"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 34,
+        "Product_Name": "ASUS Membrane Gaming Keyboard for PC - TUF K1 | Programmable, Onboard Memory | Dedicated Volume Knob, Aura Sync RGB & Side Lighting | Detachable Wrist Rest | Spill-Resistant | Highly Durable | Black",
+        "Price": "$49.99",
+        "Rating": "5",
+        "URL": "https://www.newegg.ca/asus-tuf-gaming-k1-membrane-black/p/N82E16823193108",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "TUF Gaming K1",
+                    "TUF Gaming K3",
+                    "KB+MS Combo"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 35,
+        "Product_Name": "CORSAIR K55 CORE RGB Gaming Keyboard - Ten-Zone RGB - Four Dedicated Media Keys - Quiet, Responsive Switches - 300ml Spill Resistance - CORSAIR iCUE",
+        "Price": "$69.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823816171",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 36,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - Mini - Brown",
+        "Price": "$184.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-mini-brown-cherry-mx-brown-blue/p/N82E16823964063",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 37,
+        "Product_Name": "Rosewill NEON K75 V2 BR Wired Mechanical Gaming Keyboard with Kailh Brown Switches, 19 RGB LED Backlight Effects, NKRO, Anti-Ghosting, Vivid Customizable Rim Backlights, 3-Way Cable Slot",
+        "Price": "$89.99",
+        "Rating": "76",
+        "URL": "https://www.newegg.ca/rosewill-wired-mechanical-neon-k75-v2-br-mechanical-keyboard-brown-switch/p/N82E16823201122",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 38,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Options",
+                "type_name": [
+                    "GK30 Black",
+                    "GK30 White",
+                    "GK100"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 39,
+        "Product_Name": "Keychron V1-D3 V1 Hotswap Knob Carbon Black Gaming Keyboard - K Pro Brown",
+        "Price": "$149.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/v1-hotswap-knob-keychron-k-pro-brown-carbon-black/p/N82E16823937070",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 40,
+        "Product_Name": "Roccat Vulcan II Max Full-size Wired Keyboard with Optical Titan Switch, RGB Lighting, Aluminum Top Plate and Palm Rest - White  ROC-12-023",
+        "Price": "$251.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16823436039",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            }
+        ]
+    },
+    {
+        "ID": 41,
+        "Product_Name": "ASUS ROG Falchion NX 65% Mechanical Keyboard - ROG NX Red",
+        "Price": "$129.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/asus-90mp01y6-bkua00-usb-2-0-wired-rf-2-4ghz-wireless/p/N82E16823193116",
+        "product_detail": [
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": null,
+                "type_name": []
+            },
+            {
+                "type_title": "Key Switch Type",
+                "type_name": [
+                    "ROG NX Blue",
+                    "ROG NX Red"
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 42,
+        "Product_Name": "ASUS ROG Strix Flare II 100% RGB Gaming Keyboard, ROG NX Red Mechanical switches, PBT doubleshot keycaps, 8k Hz Polling, Sound-dampening Foam, Media Controls, USB passthrough, Wrist Rest-Black",
+        "Price": "$199.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16823193132"
+    },
+    {
+        "ID": 43,
+        "Product_Name": "Ducky ONE 3 Aura RGB White, 60% Mechanical Keyboard - Mini - Red Switch (DKON2161ST-RUSPDAWWWWC1)",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-aura-rgb-white-mini-red-cherry-mx-red/p/N82E16823964074"
+    },
+    {
+        "ID": 44,
+        "Product_Name": "Ducky ONE 3 Aura RGB White, 65% Mechanical Keyboard - SF - Brown Switch (DKON2167ST-BUSPDAWWWWC1)",
+        "Price": "$204.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-aura-rgb-white-sf-brown-cherry-mx-brown/p/N82E16823964070"
+    },
+    {
+        "ID": 45,
+        "Product_Name": "Unknow Name",
+        "Price": "$209.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 46,
+        "Product_Name": "Ducky ONE 3 RGB Mist - Mini - Silent Red Keyboard",
+        "Price": "$194.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-mini-silent-red-cherry-mx-silent-red-gray/p/N82E16823964047"
+    },
+    {
+        "ID": 47,
+        "Product_Name": "Corsair K70 RGB TKL CHAMPION SERIES Tenkeyless Gaming Keyboard CH911901ANA",
+        "Price": "$239.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823816161"
+    },
+    {
+        "ID": 48,
+        "Product_Name": "Ducky ONE 3 RGB - Black - Mini Mechanical Keyboard - MX Silent Red",
+        "Price": "$204.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-black-mini-mechanical-keyboard-mx-silent-red-cherry-mx-silent-red/p/N82E16823034013"
+    },
+    {
+        "ID": 49,
+        "Product_Name": "Ducky ONE 3 RGB - Black - TKL Mechanical Keyboard - MX Silent Red",
+        "Price": "$238.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-tkl-cherry-mx-silent-red-black/p/N82E16823034030"
+    },
+    {
+        "ID": 50,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, 60% Mechanical Keyboard - Mini - Brown Switch (DKON2161ST-BUSPDABAAAC1)",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-aura-rgb-black-tkl-red-cherry-mx-red/p/N82E16823964069"
+    },
+    {
+        "ID": 51,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, TKL Mechanical Keyboard - TKL - Red Switch (DKON2187ST-RUSPDABAAAC1)",
+        "Price": "$225.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-aura-rgb-black-tkl-red-cherry-mx-red/p/N82E16823964068"
+    },
+    {
+        "ID": 52,
+        "Product_Name": "Ducky ONE 3 RGB - Black - TKL Mechanical Keyboard - MX Red",
+        "Price": "$241.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-tkl-cherry-mx-red-black/p/N82E16823034026"
+    },
+    {
+        "ID": 53,
+        "Product_Name": "Ducky ONE 3 Aura RGB White - Mini - Blue Keyboard",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-aura-rgb-white-mini-blue-cherry-mx-blue/p/N82E16823964073"
+    },
+    {
+        "ID": 54,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - TKL - Brown Keyboard",
+        "Price": "$224.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-tkl-brown-cherry-mx-brown-gray/p/N82E16823964053"
+    },
+    {
+        "ID": 55,
+        "Product_Name": "Ducky ONE 3 RGB - Black - Mini Mechanical Keyboard - MX Brown",
+        "Price": "$173.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-mini-pure-black-rgb-gaming-keyboard-w-mx-cherry-brown-rgb-switches-cherry-mx-brown/p/N82E16826948005"
+    },
+    {
+        "ID": 56,
+        "Product_Name": "Ducky ONE 3 Aura RGB White, 60% Mechanical Keyboard - Mini - Brown Switch (DKON2161ST-BUSPDAWWWWC1)",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-aura-rgb-white-mini-brown-cherry-mx-brown/p/N82E16823964072"
+    },
+    {
+        "ID": 57,
+        "Product_Name": "Ducky ONE 3 RGB Mist - Mini - Red Keyboard",
+        "Price": "$184.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-mini-red-cherry-mx-red-gray/p/N82E16823964045"
+    },
+    {
+        "ID": 58,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - SF - Silver",
+        "Price": "$204.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-sf-silver-cherry-mx-silver-gray/p/N82E16823964061"
+    },
+    {
+        "ID": 59,
+        "Product_Name": "Ducky ONE 3 RGB Mist - Full Size - Red Keyboard",
+        "Price": "$234.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-full-size-red-cherry-mx-red-gray/p/N82E16823964031"
+    },
+    {
+        "ID": 60,
+        "Product_Name": "Keychron V1-D1 V1 Hotswap Knob Carbon Black Gaming Keyboard - K Pro Red",
+        "Price": "$149.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/v1-hotswap-knob-keychron-k-pro-red-carbon-black/p/N82E16823937069"
+    },
+    {
+        "ID": 61,
+        "Product_Name": "Ducky ONE 3 RGB Mist - Mini - Brown Keyboard",
+        "Price": "$184.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-mini-brown-cherry-mx-brown-gray/p/N82E16823964043"
+    },
+    {
+        "ID": 62,
+        "Product_Name": "Corsair K55 RGB PRO XT - Dynamic Per-Key RGB Backlighting - Six Macro Keys with Elgato Stream Deck Software Integration - IP42 Dust and Spill-Resistant - Detachable Palm Rest - Media and Volume Keys",
+        "Price": "$110.62",
+        "Rating": "166",
+        "URL": "https://www.newegg.ca/p/N82E16823816144"
+    },
+    {
+        "ID": 63,
+        "Product_Name": "Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - CHERRY MX SPEED",
+        "Price": "$270.22",
+        "Rating": "24",
+        "URL": "https://www.newegg.ca/corsair-k70-ch-9109414-na-mechanical-keyboard-cherry-mx-speed/p/N82E16823816154"
+    },
+    {
+        "ID": 64,
+        "Product_Name": "ASUS ROG Strix Scope II 96 Wireless Gaming Keyboard, Tri-Mode Connection, Dampening Foam & Switch-Dampening Pads, Hot-Swappable Pre-lubed ROG NX Snow Switches, PBT Keycaps, RGB-Black",
+        "Price": "$245.44",
+        "Rating": "14",
+        "URL": "https://www.newegg.ca/asus-x901-strix-scope-ii-96-wl-nxsw-ca-pbt-rog-wireless-mechanical-keyboard-rog-nx-snow-switches/p/N82E16823193139"
+    },
+    {
+        "ID": 65,
+        "Product_Name": "Corsair K70 PRO Mini Wireless RGB 60% Mechanical Gaming Keyboard (Fastest Sub-1ms Wireless, Swappable Cherry MX Speed Keyswitches, Durable Aluminum Frame and PBT Double-Shot Keycap) Black",
+        "Price": "$259.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/3D5-001H-00038"
+    },
+    {
+        "ID": 66,
+        "Product_Name": "Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard, Low Profile Switch Options, Lightsync RGB, Advanced Wireless and Bluetooth Support - Tactile",
+        "Price": "$307.55",
+        "Rating": "52",
+        "URL": "https://www.newegg.ca/logitech-g915-920-009495-mechanical-keyboard-tactile/p/N82E16823126615"
+    },
+    {
+        "ID": 67,
+        "Product_Name": "Logitech G815 LIGHTSYNC RGB Mechanical Gaming Keyboard with Low Profile GL Clicky key switch, 5 programmable G-keys, USB Passthrough, dedicated media control - Clicky \u2013 Black",
+        "Price": "$286.22",
+        "Rating": "75",
+        "URL": "https://www.newegg.ca/logitech-g815-lightsync-920-009087-mechanical-keyboard-clicky/p/N82E16823126556"
+    },
+    {
+        "ID": 68,
+        "Product_Name": "HyperX Alloy Core RGB - Membrane Gaming Keyboard, Comfortable Quiet Silent Keys with RGB LED Lighting Effects, Spill Resistant, Dedicated Media Keys, Compatible with Windows 10/8.1/8/7 - Black",
+        "Price": "$65.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/32N-002C-00088"
+    },
+    {
+        "ID": 69,
+        "Product_Name": "Razer Huntsman V2 TKL Tenkeyless Gaming Keyboard: Fastest Linear Optical Switches Gen2 w/Sound Dampeners & 8000Hz Polling Rate - Detachable TypeC Cable - Doubleshot PBT Keycaps - Ergonomic Wrist Rest",
+        "Price": "$199.99",
+        "Rating": "41",
+        "URL": "https://www.newegg.ca/razer-huntsman-v2-tenkeyless-linear-optical-switches-black/p/12K-02XC-00002"
+    },
+    {
+        "ID": 70,
+        "Product_Name": "Logitech G915 LIGHTSPEED RGB Mechanical Gaming Keyboard, Low Profile GL Tactile Key Switch, LIGHTSYNC RGB, Advanced LIGHTSPEED Wireless and Bluetooth Support - Tactile",
+        "Price": "$336.55",
+        "Rating": "76",
+        "URL": "https://www.newegg.ca/logitech-g915-lightspeed-920-008902-mechanical-keyboard-tactile/p/N82E16823126555"
+    },
+    {
+        "ID": 71,
+        "Product_Name": "Logitech G PRO Mechanical Gaming Keyboard, Ultra Portable Tenkeyless Design, Detachable Micro USB Cable, 16.8 Million Color LIGHTSYNC RGB Backlit Keys",
+        "Price": "$149.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/0GA-0001-00DJ7"
+    },
+    {
+        "ID": 72,
+        "Product_Name": "Logitech POP Keys Wireless Mechanical Tenkeyless Keyboard Cosmos 920011233",
+        "Price": "$132.11",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/logic-controls-pop-keys-mechanical-switches-lilac/p/32N-0002-00459"
+    },
+    {
+        "ID": 73,
+        "Product_Name": "Logitech G915 LIGHTSPEED RGB Mechanical Gaming Keyboard, Low Profile Clicky Key Switch, LIGHTSYNC RGB, Advanced LIGHTSPEED Wireless and Bluetooth Support - Clicky",
+        "Price": "$336.55",
+        "Rating": "76",
+        "URL": "https://www.newegg.ca/logitech-g915-lightspeed-920-009103-mechanical-keyboard-clicky/p/N82E16823126553"
+    },
+    {
+        "ID": 74,
+        "Product_Name": "ASUS XA07 ROG Strix Flare II Animate 100% RGB Gaming Keyboard with Hot-swappable ROG NX Brown Tactile Switches",
+        "Price": "$291.22",
+        "Rating": "15",
+        "URL": "https://www.newegg.ca/asus-xa07-strix-flare-ii-ani-nxbn-us-pbt-90mp02e7-bkua01-mechanical-keyboard-rog-nx-brown/p/N82E16823193117"
+    },
+    {
+        "ID": 75,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6"
+    },
+    {
+        "ID": 76,
+        "Product_Name": "ASUS ROG Strix Flare II 100% RGB Gaming Keyboard, ROG NX Brown Mechanical switches, ABS Engraved keycaps, 8k Hz Polling, Sound-dampening Foam, Media Controls, USB passthrough, Wrist Rest-Black",
+        "Price": "$199.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16823193131"
+    },
+    {
+        "ID": 77,
+        "Product_Name": "Logitech G513 Lightsync RGB Mechanical Gaming Keyboard - Cable Connectivity - USB 2.0 Type A Interface - English - Windows - Mechanical Keyswitch - Carbon",
+        "Price": "$166.55",
+        "Rating": "39",
+        "URL": "https://www.newegg.ca/logitech-g513-lightsync-rgb-920-009322-mechanical-keyboard-gx-brown/p/N82E16823126567"
+    },
+    {
+        "ID": 78,
+        "Product_Name": "ASUS ROG Falchion NX 65% Wireless RGB Gaming Mechanical Keyboard | ROG NX Blue Clicky Switches, PBT Doubleshot Keycaps, Wired / 2.4G Hz, Touch Panel, Keyboard Cover Case, Macro Support",
+        "Price": "$212.22",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/asus-90mp01y8-bkua00-usb-2-0-wired-rf-2-4ghz-wireless/p/N82E16823193115"
+    },
+    {
+        "ID": 79,
+        "Product_Name": "ASUS XA07 ROG Strix Flare II Animate 100% RGB Gaming Keyboard with Hot-swappable ROG NX Red Linear and Swift Switches",
+        "Price": "$291.22",
+        "Rating": "15",
+        "URL": "https://www.newegg.ca/p/N82E16823193118"
+    },
+    {
+        "ID": 80,
+        "Product_Name": "HP Mechanical Gaming Keyboard HX Aqua US Layout 4P5D6AA",
+        "Price": "$139.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-01DC-000X2"
+    },
+    {
+        "ID": 81,
+        "Product_Name": "TROPRO GTX300 RGB Gaming Keyboard and Colorful Mouse Combo, USB Wired LED Backlight Gaming Mouse and Keyboard for Laptop PC Computer Gaming and Work, Letter Glow, Mechanical Feeling",
+        "Price": "$49.99",
+        "Rating": "126",
+        "URL": "https://www.newegg.ca/tropro-keyboard-key-mouse-set-light-strike-black-black-white/p/32N-00MR-00002"
+    },
+    {
+        "ID": 82,
+        "Product_Name": "Corsair K100 RGB Optical-Mechanical Gaming Keyboard - Corsair OPX RGB Optical-Mechanical Keyswitches - AXON Hyper-Processing Technology for 4X Faster Throughput - 44-Zone RGB LightEdge",
+        "Price": "$390.15",
+        "Rating": "96",
+        "URL": "https://www.newegg.ca/corsair-k100-rgb-ch-912a01a-na-mechanical-keyboard-opx-optical-mechanical-linear/p/N82E16823816138"
+    },
+    {
+        "ID": 83,
+        "Product_Name": "COUGAR Puri Mini Compact 60% DSA Mechanical Gaming Keyboard with Magnetic Protective Cover",
+        "Price": "$114.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/cougar-puri-mini-red-switch-grey-black/p/32N-002W-00072"
+    },
+    {
+        "ID": 84,
+        "Product_Name": "HyperX Alloy Origins 60 RGB Mechanical Gaming Keyboard - Red Switches",
+        "Price": "$133.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823700311"
+    },
+    {
+        "ID": 85,
+        "Product_Name": "Adesso Multi OS 2X Large Print Desktop Mechanical Keyboard with CoPilot Key - AKB-670UB",
+        "Price": "$99.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-004F-00052"
+    },
+    {
+        "ID": 86,
+        "Product_Name": "ERGONOMIC ILLUMINATED KEYBOARD",
+        "Price": "$76.22",
+        "Rating": "26",
+        "URL": "https://www.newegg.ca/p/12K-00PE-00022"
+    },
+    {
+        "ID": 87,
+        "Product_Name": "Adesso Multi OS 2X Large Print Mechanical Mini Keyboard with CoPilot Key (USB) - AKB-610UB",
+        "Price": "$77.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-004F-00051"
+    },
+    {
+        "ID": 88,
+        "Product_Name": "Logitech G915 LIGHTSPEED RGB Mechanical Gaming Keyboard, Low Profile GL Linear Key Switch, LIGHTSYNC RGB, Advanced LIGHTSPEED Wireless and Bluetooth Support - Linear",
+        "Price": "$336.55",
+        "Rating": "76",
+        "URL": "https://www.newegg.ca/logitech-g915-lightspeed-920-008954-mechanical-keyboard-linear/p/N82E16823126554"
+    },
+    {
+        "ID": 89,
+        "Product_Name": "ASUS X801 ROG Strix Scope NX TKL Deluxe 80% RGB Gaming Mechanical Keyboard, ROG NX Red Linear Switches, Aluminum Top-Plate, Detachable Cable, Media Keys, Stealth Key, Wrist Rest, Macro Support",
+        "Price": "$127.57",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/asus-rog-strix-scope-nx-tkl-deluxe-gaming-keyboard-rog-nx-red-black-red/p/32N-003C-000E7"
+    },
+    {
+        "ID": 90,
+        "Product_Name": "ASUS XA05 ROG Strix Scope RX/BL/US Mechanical Gaming Keyboard with ROG NX Blue Optical Mechanical Switches",
+        "Price": "$190.22",
+        "Rating": "49",
+        "URL": "https://www.newegg.ca/asus-xa05-rog-strix-scope-rx-bl-us-rog-rx-red-optical-black/p/N82E16823193112"
+    },
+    {
+        "ID": 91,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, 60% Mechanical Keyboard- Mini - Silver Switch 51152 (DKON2161ST-PUSPDABAAAC1)",
+        "Price": "$194.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00026"
+    },
+    {
+        "ID": 92,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, 60% Mechanical Keyboard - Mini - Blue Switch 51150 (DKON2161ST-CUSPDABAAAC1)",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00018"
+    },
+    {
+        "ID": 93,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, 60% Mechanical Keyboard - Mini - Red Switch 51151 (DKON2161ST-RUSPDABAAAC1)",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00025"
+    },
+    {
+        "ID": 94,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, 60% Mechanical Keyboard - Mini - Silent Red Switch 51153 (DKON2161ST-SUSPDABAAAC1)",
+        "Price": "$199.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00027"
+    },
+    {
+        "ID": 95,
+        "Product_Name": "Ducky ONE 3 Aura RGB White, 65% Mechanical Keyboard - SF - Blue Switch 51155 (DKON2167ST-CUSPDAWWWWC1)",
+        "Price": "$204.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00029"
+    },
+    {
+        "ID": 96,
+        "Product_Name": "Ducky ONE 3 Aura RGB White, 60% Mechanical Keyboard - Mini - Silver Switch 51162 (DKON2161ST-PUSPDAWWWWC1)",
+        "Price": "$194.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00028"
+    },
+    {
+        "ID": 97,
+        "Product_Name": "Ducky ONE 3 Aura RGB White, 60% Mechanical Keyboard - Mini - Silent Red Key Switch 51163 (DKON2161ST-SUSPDAWWWWC1)",
+        "Price": "$199.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00014"
+    },
+    {
+        "ID": 98,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, 65% Mechanical Keyboard - SF - Blue Key Switch 51145 (DKON2167ST-CUSPDABAAAC1)",
+        "Price": "$204.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00015"
+    },
+    {
+        "ID": 99,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, TKL Mechanical Keyboard - TKL - Brown Switch 51139 (DKON2187ST-BUSPDABAAAC1)",
+        "Price": "$225.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00016"
+    },
+    {
+        "ID": 100,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, Full Size Mechanical Keyboard - Full Size - Red Switch 51336 (DKON2108ST-RUSPDABAAAC1)",
+        "Price": "$239.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00022"
+    },
+    {
+        "ID": 101,
+        "Product_Name": "Ducky ONE 3 Aura RGB Black, 65% Mechanical Keyboard - SF - Red Key Switch 51146 (DKON2167ST-RUSPDABAAAC1)",
+        "Price": "$204.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/0GA-029J-00013"
+    },
+    {
+        "ID": 102,
+        "Product_Name": "Logitech G512 CARBON LIGHTSYNC RGB Mechanical Gaming Keyboard with GX Brown switches - Tactile",
+        "Price": "$192.84",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/logitech-g512-carbon-920-009342-mechanical-keyboard-gx-brown/p/N82E16823126617"
+    },
+    {
+        "ID": 103,
+        "Product_Name": "Logitech POP Mechanical Wireless Keyboard with Customizable Emoji Keys, Durable Compact Design, Bluetooth or USB Connectivity, Multi-Device, OS Compatible - Heartbreaker Rose",
+        "Price": "$132.11",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-0002-001F1"
+    },
+    {
+        "ID": 104,
+        "Product_Name": "Logitech G PRO X 60 LIGHTSPEED Wireless Gaming Keyboard, Ultra Compact TKL 60% Mechanical Keyboard for Windows PC, LIGHTSYNC RGB, Dual-Shot PBT Keycaps, GX Optical Tactile Switches, Black",
+        "Price": "$249.11",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823126735"
+    },
+    {
+        "ID": 105,
+        "Product_Name": "Logitech POP Keys Mechanical Wireless Keyboard with Customizable Emoji Keys, Durable Compact Design, Bluetooth or USB Connectivity, Multi-Device, OS Compatible - Mist",
+        "Price": "$135.22",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823126716"
+    },
+    {
+        "ID": 106,
+        "Product_Name": "Ducky ONE 3 RGB - Black - Mini Mechanical Keyboard - MX Red",
+        "Price": "$175.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-mini-pure-black-rgb-gaming-keyboard-w-mx-cherry-red-rgb-switches-cherry-mx-red/p/N82E16823034010"
+    },
+    {
+        "ID": 107,
+        "Product_Name": "Ducky ONE 3 RGB Yellow Mini Brown",
+        "Price": "$169.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-007D-00043"
+    },
+    {
+        "ID": 108,
+        "Product_Name": "Unknow Name",
+        "Price": "$209.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 109,
+        "Product_Name": "Unknow Name",
+        "Price": "$207.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 110,
+        "Product_Name": "Unknow Name",
+        "Price": "$213.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 111,
+        "Product_Name": "Unknow Name",
+        "Price": "$214.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 112,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6"
+    },
+    {
+        "ID": 113,
+        "Product_Name": "ASUS ROG Falchion NX Wireless RGB Red Linear Switch Gaming Mechanical Keyboard",
+        "Price": "$212.22",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/32N-003C-000D1"
+    },
+    {
+        "ID": 114,
+        "Product_Name": "Ducky ONE 3 RGB Yellow SF Red",
+        "Price": "$172.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-007D-00044"
+    },
+    {
+        "ID": 115,
+        "Product_Name": "SteelSeries Apex Pro Mini Mechanical Gaming Keyboard - World's Fastest Keyboard - Adjustable Actuation - Compact 60% Form Factor - RGB - PBT Keycaps - USB-C",
+        "Price": "$379.99",
+        "Rating": "16",
+        "URL": "https://www.newegg.ca/steelseries-apex-pro-mini-omnipoint-adjustable-mechanical-switch-black/p/N82E16823239060"
+    },
+    {
+        "ID": 116,
+        "Product_Name": "Hot Swappable Transparent Mechanical Keyboard, 60% Transparent Gasket Mounted RGB Backlit Wired Gaming Keyboard 61 Keys",
+        "Price": "$59.99",
+        "Rating": "52",
+        "URL": "https://www.newegg.ca/tropro-tgk05-white-axis-gray/p/32N-00MR-00008"
+    },
+    {
+        "ID": 117,
+        "Product_Name": "kensington simple solutions wired keyboard taa-compliant (k55113us)",
+        "Price": "$41.22",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00VC-00016"
+    },
+    {
+        "ID": 118,
+        "Product_Name": "Yeston Sakura Cherry Red Shaft/Limited Edition yeston x Varmilo Co-branded VA87 Sakura  Limited Edition Mechanical Keyboard Cherry Red switch PBT Sublimation Keycap Keyboard",
+        "Price": "$189.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/32N-0166-00001"
+    },
+    {
+        "ID": 119,
+        "Product_Name": "Logitech G715 Wireless Mechanical Gaming Keyboard with LIGHTSYNC RGB, LIGHTSPEED, Linear Switches (GX Red), and Keyboard Palm Rest, PC/Mac Compatible - White Mist",
+        "Price": "$357.90",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/logitech-g715-linear-switches-gx-red/p/N82E16823126701"
+    },
+    {
+        "ID": 120,
+        "Product_Name": "ASUS ROG Falchion Ace 65% RGB Compact Gaming Mechanical Keyboard, Lubed ROG NX Brown Switches & Switch Stabilizers, Sound-Dampening Foam, PBT Keycaps, Wired with KVM, Three Angles, Cover Case-White",
+        "Price": "$168.22",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16823193130"
+    },
+    {
+        "ID": 121,
+        "Product_Name": "Cooler Master MK770 Wireless Mechanical RGB Gaming Keyboard, Kailh Box V2 Soft Click White Switches, Gasket Structure, Hot-Swappable, Bluetooth|2.4GHz, Tactile 3-Way Dial, QWERTY (MK-770-GKKW1-US)",
+        "Price": "$215.72",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823129137"
+    },
+    {
+        "ID": 122,
+        "Product_Name": "Logitech G713 Wired Mechanical Gaming Keyboard with LIGHTSYNC RGB Lighting, Linear Switches (GX Red), and Keyboard Palm Rest, PC and Mac Compatible - White Mist",
+        "Price": "$404.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/logitech-g713-linear-switches-gx-red/p/N82E16823126704"
+    },
+    {
+        "ID": 123,
+        "Product_Name": "Logitech G715 Wireless Mechanical Gaming Keyboard with LIGHTSYNC RGB Lighting, Lightspeed, Clicky Switches (GX Blue), and Keyboard Palm Rest, PC and Mac Compatible, White Mist",
+        "Price": "$357.90",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/logitech-g715-clicky-switches-gx-blue/p/N82E16823126702"
+    },
+    {
+        "ID": 124,
+        "Product_Name": "Logitech G713 Wired Mechanical Gaming Keyboard with LIGHTSYNC RGB Lighting, Tactile Switches (GX Brown), and Keyboard Palm Rest, PC and Mac Compatible - White Mist",
+        "Price": "$309.94",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/logitech-g713-tactile-switches-gx-brown/p/N82E16823126703"
+    },
+    {
+        "ID": 125,
+        "Product_Name": "Ducky DKON2061ST-RUSPDAZT1 One 2 Mini RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Red Switch",
+        "Price": "$141.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-rgb-version-2-cherry-mx-red-black/p/N82E16823964016"
+    },
+    {
+        "ID": 126,
+        "Product_Name": "Ducky ONE 3 RGB Mist - TKL - Brown Keyboard",
+        "Price": "$224.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-tkl-brown-cherry-mx-brown-gray/p/N82E16823964033"
+    },
+    {
+        "ID": 127,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - SF - Red",
+        "Price": "$199.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-sf-red-cherry-mx-red-gray/p/N82E16823964060"
+    },
+    {
+        "ID": 128,
+        "Product_Name": "Ducky ONE 3 RGB Mist - SF - Silent Red Keyboard",
+        "Price": "$209.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-sf-silent-red-cherry-mx-silent-red-gray/p/N82E16823964042"
+    },
+    {
+        "ID": 129,
+        "Product_Name": "Ducky DKON2061ST-RUSPDWWT1 One 2 Mini Pure White RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Red Switch",
+        "Price": "$148.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-pure-white-rgb-version-2-cherry-mx-red/p/N82E16823964026"
+    },
+    {
+        "ID": 130,
+        "Product_Name": "Ducky DKON2061ST-BUSPDAZT1 One 2 Mini RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Brown Switch",
+        "Price": "$128.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-rgb-version-2-cherry-mx-brown-black/p/N82E16823034004"
+    },
+    {
+        "ID": 131,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - Mini - Silent Red",
+        "Price": "$194.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-mini-silent-red-cherry-mx-silent-red-blue/p/N82E16823964067"
+    },
+    {
+        "ID": 132,
+        "Product_Name": "Ducky One2 SF RGB - MX Red - Windows",
+        "Price": "$178.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00HM-00001"
+    },
+    {
+        "ID": 133,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - TKL - Red Keyboard",
+        "Price": "$224.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-tkl-red-cherry-mx-red-gray/p/N82E16823964055"
+    },
+    {
+        "ID": 134,
+        "Product_Name": "Ducky DKON2061ST-PUSPDAZT1 One 2 Mini RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Silver Switch",
+        "Price": "$146.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-rgb-version-2-cherry-mx-silver-black/p/N82E16823964017"
+    },
+    {
+        "ID": 135,
+        "Product_Name": "Unknow Name",
+        "Price": "$154.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 136,
+        "Product_Name": "Unknow Name",
+        "Price": "$149.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 137,
+        "Product_Name": "Ducky DKON2061ST-CUSPDWWT1 One 2 Mini Pure White RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Blue Switch",
+        "Price": "$154.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-pure-white-rgb-version-2-cherry-mx-blue/p/N82E16823964025"
+    },
+    {
+        "ID": 138,
+        "Product_Name": "Ducky DKON2061ST-BUSPDWWT1 One 2 Mini Pure White RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Brown Switch",
+        "Price": "$137.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-pure-white-rgb-version-2-cherry-mx-brown/p/N82E16823964024"
+    },
+    {
+        "ID": 139,
+        "Product_Name": "Keychron V1 Fully Assembled Knob RGB Backlight Wired Custom Mechanical Keyboard, 75% Layout QMK/VIA with Hot-swappable for Mac Windows (Frosted Black - Translucent) Keychron K Pro Red Switch",
+        "Price": "$149.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00KX-00117"
+    },
+    {
+        "ID": 140,
+        "Product_Name": "Unknow Name",
+        "Price": "$149.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 141,
+        "Product_Name": "Unknow Name",
+        "Price": "$149.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 142,
+        "Product_Name": "Ducky DKON2061ST-SUSPDWWT1 One 2 Mini Pure White RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Silent Red Switch",
+        "Price": "$155.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-pure-white-rgb-version-2-cherry-mx-silent-red/p/N82E16823964028"
+    },
+    {
+        "ID": 143,
+        "Product_Name": "Ducky DKON2061ST-SUSPDAZT1 One 2 Mini RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Silent Red Switch",
+        "Price": "$169.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-rgb-version-2-cherry-mx-silent-red-black/p/N82E16823964018"
+    },
+    {
+        "ID": 144,
+        "Product_Name": "Unknow Name",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 145,
+        "Product_Name": "Unknow Name",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 146,
+        "Product_Name": "Ducky ONE 3 RGB Mist - SF - Brown Keyboard",
+        "Price": "$199.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-sf-brown-cherry-mx-brown-gray/p/N82E16823964038"
+    },
+    {
+        "ID": 147,
+        "Product_Name": "Ducky ONE 3 RGB Mist - SF - Red Keyboard",
+        "Price": "$199.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-sf-red-cherry-mx-red-gray/p/N82E16823964040"
+    },
+    {
+        "ID": 148,
+        "Product_Name": "Unknow Name",
+        "Price": "$189.99",
+        "Rating": "No rating",
+        "URL": "Unknown href"
+    },
+    {
+        "ID": 149,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6"
+    },
+    {
+        "ID": 150,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - Mini - Silent Red",
+        "Price": "$194.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-mini-silent-red-cherry-mx-silent-red-blue/p/N82E16823964067"
+    },
+    {
+        "ID": 151,
+        "Product_Name": "Ducky ONE 3 RGB Mist - SF - Silent Red Keyboard",
+        "Price": "$209.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-mist-sf-silent-red-cherry-mx-silent-red-gray/p/N82E16823964042"
+    },
+    {
+        "ID": 152,
+        "Product_Name": "Ducky DKON2061ST-RUSPDWWT1 One 2 Mini Pure White RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Red Switch",
+        "Price": "$148.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-pure-white-rgb-version-2-cherry-mx-red/p/N82E16823964026"
+    },
+    {
+        "ID": 153,
+        "Product_Name": "Ducky DKON2061ST-BUSPDAZT1 One 2 Mini RGB Version 2 (Zodiac Space bar) Gaming Keyboard - Cherry MX Brown Switch",
+        "Price": "$128.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-2-mini-rgb-version-2-cherry-mx-brown-black/p/N82E16823034004"
+    },
+    {
+        "ID": 154,
+        "Product_Name": "Ducky ONE 3 RGB Cosmic - SF - Brown",
+        "Price": "$199.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/ducky-one-3-rgb-cosmic-sf-brown-cherry-mx-brown-gray/p/N82E16823964058"
+    },
+    {
+        "ID": 155,
+        "Product_Name": "ASUS ROG Strix Scope II RX Gaming Keyboard, IP57, Dampening Foam, Pre-lubed ROG RX Red Optical Switches, PBT Keycaps, multi-function controls, Xbox Game Bar function hotkeys, RGB-Black",
+        "Price": "$262.92",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/asus-rog-strix-scope-ii-rx-90mp0350-bkaa01-mechanical-keyboard-rog-rx-red-optical/p/N82E16823193150"
+    },
+    {
+        "ID": 156,
+        "Product_Name": "ASUS TUF Mechanical PC Gaming Keyboard for PC - TUF K3 | Programmable Onboard Memory | Dedicated Media Controls, Aura Sync RGB Lighting | Detachable Magnetic Wrist Rest | Highly Durable | Black",
+        "Price": "$136.99",
+        "Rating": "14",
+        "URL": "https://www.newegg.ca/asus-tuf-gaming-k3-90mp01q0-bkua00-mechanical-keyboard-red-mechanical/p/N82E16823193094"
+    },
+    {
+        "ID": 157,
+        "Product_Name": "Anne Pro 2 60% Mechanical Keyboard Wired/Wireless Dual Mode Full RGB Double Shot PBT - Gateron Brown Switch",
+        "Price": "$109.99",
+        "Rating": "253",
+        "URL": "https://www.newegg.ca/p/32N-00B5-00009"
+    },
+    {
+        "ID": 158,
+        "Product_Name": "MSI VIGOR GK30 COMBO Backlit RGB Dedicated Hotkeys Anti-Ghosting Mechanical Feel Gaming Keyboard & Gaming Mouse Combo Gaming Keyboard",
+        "Price": "$155.98",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823167038"
+    },
+    {
+        "ID": 159,
+        "Product_Name": "ASUS ROG Falchion Wireless 65% Mechanical Gaming Keyboard | 68 Keys, Aura Sync RGB, Extended Battery Life, Interactive Touch Panel, PBT Keycaps, Cherry MX Brown Switches, Keyboard Cover Case",
+        "Price": "$275.54",
+        "Rating": "24",
+        "URL": "https://www.newegg.ca/asus-rog-falchion-wireless-65-mechanical-rgb-gaming-keyboard-90mp01y1-bkua00/p/0GA-00C1-00211"
+    },
+    {
+        "ID": 160,
+        "Product_Name": "Logitech G915 TKL White Tactile Tenkeyless LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard, Low Profile Switch Options, LIGHTSYNC RGB, Advanced Wireless and Bluetooth Support",
+        "Price": "$389.88",
+        "Rating": "52",
+        "URL": "https://www.newegg.ca/logitech-g915-gl-tactile-white/p/N82E16823126616"
+    },
+    {
+        "ID": 161,
+        "Product_Name": "ASUS ROG Falchion RX Low Profile 65% Compact Wireless Gaming Keyboard, Pre-lubed ROG RX Blue Low-Profile Optical Switches, Tri-mode Connection, MacOS Support, ABS Keycaps, RGB-White",
+        "Price": "$400.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/asus-rog-falchion-rx-low-profile-65-compact-wireless-gaming-keyboard-rog-rx-low-profile-switch-whit/p/N82E16823193156"
+    },
+    {
+        "ID": 162,
+        "Product_Name": "Cooler Master CK720 Hot-swappable Mechanical Keyboard with Kailh Box V2 Mechanical Red Switch,  65% Layout, USB-C Connectivity, RGB Lighting and 3-way Dial, Sliver White",
+        "Price": "$193.67",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823129136"
+    },
+    {
+        "ID": 163,
+        "Product_Name": "Logitech G713 Wired Mechanical Gaming Keyboard with LIGHTSYNC RGB Lighting, Clicky Switches (GX Blue), and Keyboard Palm Rest, PC/Mac Compatible - White Mist",
+        "Price": "$368.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/logitech-g713-clicky-switches-gx-blue/p/N82E16823126705"
+    },
+    {
+        "ID": 164,
+        "Product_Name": "Acer Predator Aethon PKW120 Wired RGB Gaming Keyboard GPKBD1101N",
+        "Price": "$324.92",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00EW-00033"
+    },
+    {
+        "ID": 165,
+        "Product_Name": "CUUWE ANNE PRO 2, 60% Wired/Wireless Mechanical Keyboard  - Full Keys Programmable - True RGB Backlit - Tap Arrow Keys - Double Shot PBT Keycaps - NKRO - 1900mAh Battery",
+        "Price": "$109.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/cuuwe-anne-pro-2-gateron-red-white/p/32N-00SS-00024"
+    },
+    {
+        "ID": 166,
+        "Product_Name": "Anne Pro 2 Mechanical Gaming Tenkeyless Keyboard  60% True RGB Backlit - Wired/Wireless Bluetooth 4.0 PBT Type-c Up to 8 Hours Battery Life, Linux Mac Full Keys Programmable (Gateron Brown, Black)",
+        "Price": "$126.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/n-a-anne-pro-2-gateron-brown/p/32N-0026-003P9"
+    },
+    {
+        "ID": 167,
+        "Product_Name": "E-YOOSO Z11 Gaming Keyboard, with Red Switches and Solid Color Backlit Small Compact Keyboard 60 Percent Keyboard Mechanical, Portable 60 Percent Gaming Keyboard Gamer(Grey Black)",
+        "Price": "$45.99",
+        "Rating": "7",
+        "URL": "https://www.newegg.ca/p/32N-00X8-00074"
+    },
+    {
+        "ID": 168,
+        "Product_Name": "COUGAR ATTACK X3 RGB Cherry MX Blue Switch Gaming Keyboard - Attackx3-RGB-3IG",
+        "Price": "$352.99",
+        "Rating": "10",
+        "URL": "https://www.newegg.ca/black-silver-cougar-attack-x3-rgb-cherry-mx-blue/p/N82E16823567026"
+    },
+    {
+        "ID": 169,
+        "Product_Name": "Logitech G815 LIGHTSYNC RGB Mechanical Gaming Keyboard with Low Profile GL Clicky key switch",
+        "Price": "$306.66",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-0002-004D5"
+    },
+    {
+        "ID": 170,
+        "Product_Name": "IMICRO IM-KBCOBV8 iMicro Cobra IM-KBCOBV8 110-Key Wired USB LED Backlit Gaming Keyboard (Black)",
+        "Price": "$73.16",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/0GA-000Y-000D2"
+    },
+    {
+        "ID": 171,
+        "Product_Name": "Gamdias Hermes P3 RGB Mechanical Gaming Keyboard - Blue Switch",
+        "Price": "$284.65",
+        "Rating": "7",
+        "URL": "https://www.newegg.ca/p/N82E16823225018"
+    },
+    {
+        "ID": 172,
+        "Product_Name": "Ornata V3 X Gaming Keyboard: Low-Profile Keys - Silent Membrane Switches - UV-Coated Keycaps - Spill Resistant - Chroma RGB Lighting - Ergonomic Wrist Rest - Classic Black",
+        "Price": "$99.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-006P-00071"
+    },
+    {
+        "ID": 173,
+        "Product_Name": "Gaming Mechanical Keyboard Colorful Mobile Phone Tablet MAC Bluetooth 5.0 Punk Keycap Dot Retro Typewriter",
+        "Price": "$129.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/32N-012C-00003"
+    },
+    {
+        "ID": 174,
+        "Product_Name": "Varmilo VBS108 wireless Bluetooth 5.0/2.4Ghz/type-c wired 108 keys three Modes Connectable Mechanical Gaming Keyboard, PBT keycaps, Cherry MX Red switches",
+        "Price": "$269.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-0026-00AJ4"
+    },
+    {
+        "ID": 175,
+        "Product_Name": "RK ROYAL KLUDGE Gaming Keyboard 5Q RGB 60% White/Green RK Snow Switches black/grey",
+        "Price": "$69.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-rkr65-rk-snow-black-grey/p/32N-04ND-000C3"
+    },
+    {
+        "ID": 176,
+        "Product_Name": "RK ROYAL KLUDGE R65 Wired Gaming Keyboard with Volume Knob and QMK & ViA RGB Backlit Mechanical Keyboard Gasket Mount with PBT Keycaps, MDA Profile, 66 Keys Hot Swappable Chartreuse Switch",
+        "Price": "$69.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-keyboard-rk-chartreuse-black/p/32N-04ND-000J1"
+    },
+    {
+        "ID": 177,
+        "Product_Name": "RK Royal Kludge R75 Gasket Wired Mechanical Keyboard 80 Key 80% RGB Backlit Hot-swappable Gamer Kevboard with MDA PBT Keycaps RK Snow",
+        "Price": "$76.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-keyboard-rk-snow-green-white/p/32N-04ND-000E3"
+    },
+    {
+        "ID": 178,
+        "Product_Name": "RK ROYAL KLUDGE Mechanical Keyboard Smart Display Knob Top Mount 96% Wireless Mechanical Keyboard BT/2.4G/USB-C Hot Swappable Software Support Creamy Sounding 98 Keys Gaming Keyboard Blue Switch",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-keyboard-rk-blue-purple/p/32N-04ND-000R6"
+    },
+    {
+        "ID": 179,
+        "Product_Name": "RK ROYAL KLUDGE M75 2.4G Wireless/Bluetooth/USB-C Mechanical Keyboard 81Keys RGB Hot-Swappable Gasket Gamer Keyboard with Screen Black",
+        "Price": "$119.99",
+        "Rating": "4",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-rk-m75-silver-switch-black/p/32N-04ND-000B8"
+    },
+    {
+        "ID": 180,
+        "Product_Name": "RK ROYAL KLUDGE RK100 2.4G Wireless/Bluetooth/Wired RGB Mechanical Keyboard 100 Keys Hot-swappable Russian Gaming Keyboard Gamer Red Switch Black",
+        "Price": "$105.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-rk100-red-switch-black/p/32N-04ND-00057"
+    },
+    {
+        "ID": 181,
+        "Product_Name": "RK ROYAL KLUDGE RK96 RGB Limited Ed 90% 96 Keys Wireless Triple Mode BT5.0/2.4G/USB-C Hot Swappable Mechanical Keyboard with Wrist Rest Software Support & Massive Battery",
+        "Price": "$125.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-mechanical-keyboard-blue-switch/p/32N-04ND-000R9"
+    },
+    {
+        "ID": 182,
+        "Product_Name": "RK ROYAL KLUDGE 104 Keys PBT Keycaps Thick PBT Double Shot Gaming Keycaps for Mechanical Keyboards Keyboard Keys 104 87 61 (Color Random)",
+        "Price": "$19.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-04ND-000R4"
+    },
+    {
+        "ID": 183,
+        "Product_Name": "RK ROYAL KLUDGE S98 Mechanical Keyboard Smart Display Knob Top Mount 96% Wireless Mechanical Keyboard BT/2.4G/USB-C Hot Swappable 98 Keys Software Support",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-mechanical-keyboard-rk-blue-purple/p/32N-04ND-000S9"
+    },
+    {
+        "ID": 184,
+        "Product_Name": "RK Royal Kludge RK98 2.4G Wireless Gaming Mechanical Keyboard 100 Keys RGB Backlight Hot-swappable Bluetooth Russian Keyboard Red Switch Black",
+        "Price": "$115.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-rk98-red-switch-black/p/32N-04ND-00049"
+    },
+    {
+        "ID": 185,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6"
+    },
+    {
+        "ID": 186,
+        "Product_Name": "RK ROYAL KLUDGE RK918 Wired Mechanical Keyboard 108 Keys 100% RGB Backlit Gaming Keyboard with Large LED Sorrounding Side Lamp and Palm Rest",
+        "Price": "$70.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-mechanical-keyboard-blue-switch-black/p/32N-04ND-000Y0"
+    },
+    {
+        "ID": 187,
+        "Product_Name": "RK ROYAL KLUDGE KZZI K75 PRO RGB 75% Wireless Gasket Mechanical Keyboard Triple Mode BT5.0/2.4G/USB-C 82 Keys Hot Swappable Gaming Keyboard Knob Power Display Custom Tactile Switches",
+        "Price": "$103.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/kzzi-k75rro-rk-eternity-black-white/p/32N-04ND-000U9"
+    },
+    {
+        "ID": 188,
+        "Product_Name": "RK ROYAL KLUDGE K75 PRO+ RGB 75% Wireless Gasket Mechanical Keyboard Triple Mode BT 5.0/2.4G/USB-C 82 Keys Hot Swappable Gaming Keyboard Knob Power Display Custom Linear Switches",
+        "Price": "$113.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/kzzi-mechanical-keyboard-rk-moment-gray/p/32N-04ND-000V5"
+    },
+    {
+        "ID": 189,
+        "Product_Name": "RK ROYAL KLUDGE RK87 Sink87G RGB Wireless TKL Mechanical Gaming Keyboard, 87 Keys No Numpad Tenkeyless Compact 2.4G Wireless Keyboard with Tactile Brown Switches, Exceptional Macro Settings",
+        "Price": "$89.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-gaming-keyboard-brown-switch-black/p/32N-04ND-000K8"
+    },
+    {
+        "ID": 190,
+        "Product_Name": "RK ROYAL KLUDGE S98 Mechanical Keyboard w/Smart Display & Knob, Top Mount 96% Wireless Mechanical Keyboard BT/2.4G/USB-C, Hot Swappable, Software Support, Creamy Sounding, 98 Keys Blue Switch",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/rk-royal-kludge-keyboard-rk-blue-camping/p/32N-04ND-000H8"
+    },
+    {
+        "ID": 191,
+        "Product_Name": "KZZI K75 Pro Gasket Structure Tri-mode Mechanical Keyboard 82 Keys 75% RGB Backlit 2.4G Wireless Bluetooth PBT Keycap Gamer Keyboard Brown Switch Black / White",
+        "Price": "$124.41",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/kzzi-k75rro-brown-switch-black-white/p/32N-04ND-00084"
+    },
+    {
+        "ID": 192,
+        "Product_Name": "RK ROYAL KLUDGE 104 Keys PBT Keycaps Thick PBT Double Shot Gaming Keycaps for Mechanical Keyboards Keyboard Keys 104 87 61 (Color Random)",
+        "Price": "$19.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-04ND-000N4"
+    },
+    {
+        "ID": 193,
+        "Product_Name": "AULA F3010 Wired Gaming Mechanical Keyboard, Multi-Platform Compatible, 104 Keys, Backlight Illuminated Desktop Notebook PC Gaming Keyboard,Dark Black",
+        "Price": "$79.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001R6"
+    },
+    {
+        "ID": 194,
+        "Product_Name": "AULA S2016 Wired Mechanical Keyboard, Multi-Platform Compatible,104 Keys, Mixed Light Desktop Notebook PC Wired Gaming Keyboard, Gun Black",
+        "Price": "$79.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001P8"
+    },
+    {
+        "ID": 195,
+        "Product_Name": "AULA Reaper Mechanical Keyboard, Full Key Hot Swap, Multi-Platform Compatible, Wired Gaming Keyboard 104 Keys, Laptop Desktop External Office Keyboard, Silver White",
+        "Price": "$89.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001N7"
+    },
+    {
+        "ID": 196,
+        "Product_Name": "AULA F3087 Wired Gaming Mechanical Keyboard, Multi-Platform Compatible, 87 Keys, Full Keys Without Punch, Illuminated Desktop Notebook PC Gaming Keyboard, White",
+        "Price": "$79.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S6"
+    },
+    {
+        "ID": 197,
+        "Product_Name": "AULA S2022 Full Size Wired Gaming Mechanical Keyboard, Multi-Platform Compatible, 104 Keys, Full Key Macro Programming, Smart Hibernation,Black",
+        "Price": "$79.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001R9"
+    },
+    {
+        "ID": 198,
+        "Product_Name": "AULA F2099 Wired Mechanical Keyboard, Multi-Platform Compatible, 104 Keys with Knobs, Anti-Cut, Desktop Notebook PC Wired Gaming Keyboard, Green Gray-Black",
+        "Price": "$89.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001R2"
+    },
+    {
+        "ID": 199,
+        "Product_Name": "AULA F2088 Mechanical Keyboard, Wired Gaming Keyboard, Multi-function Knob, 104 Keys Phantom Backlit Keyboard, Macro Programming, Magnetic Hand Rest, Green Shaft + Black",
+        "Price": "$89.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001P4"
+    },
+    {
+        "ID": 200,
+        "Product_Name": "AULA H68 Tri-Mode Mechanical Keyboard, Multi-Platform Compatible, low Shaft 68 Keys, RGB Full Colour Rhythmic Backlighting, Ergonomic Design,Clear",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S2"
+    },
+    {
+        "ID": 201,
+        "Product_Name": "AULA F3061 Wired Mini Mechanical Keyboard, Multi-Platform Compatible, 64 Keys, RGB Lighting, Integrated Card Slot,Black",
+        "Price": "$69.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001P7"
+    },
+    {
+        "ID": 202,
+        "Product_Name": "AULA  T101  Keyboard And Game Mouse Combo, USB Wired LED Backlight   for Vista/Windows7/8/10/MAC, 2400DPI,26 keys punchless, Silver Black",
+        "Price": "$79.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001M8"
+    },
+    {
+        "ID": 203,
+        "Product_Name": "AULA  T610  Wireless Game Keyboard And Mouse Combo, 2.4G connection Wireless LED Backlight   for Vista/Windows7/8/10/mac,2.4G connection, black",
+        "Price": "$119.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001M5"
+    },
+    {
+        "ID": 204,
+        "Product_Name": "AULA  T630  Keyboard And Game Mouse Combo, USB Wired LED Backlight   for Vista/Windows7/8/10/MAC, 1200DPI, 10 million keystroke life, Silver Black",
+        "Price": "$79.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001M6"
+    },
+    {
+        "ID": 205,
+        "Product_Name": "AULA F98 Tri-Mode Mechanical Keyboard, Multi-Platform Compatible, 99 Keys, RGB Full Colour Rhythmic Backlighting, GASKET Construction, Hot Swappable,Black",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001R8"
+    },
+    {
+        "ID": 206,
+        "Product_Name": "AULA F3032 2.4G/Bluetooth/USB Tri-mode Connection Gaming Mechanical Keyboard, Multi-Platform Compatible, 87 Keys, Transparent Full Keys Hot Swap, Music Rhythm,Silver",
+        "Price": "$119.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001P2"
+    },
+    {
+        "ID": 207,
+        "Product_Name": "AULA F98Pro Tri-Mode Mechanical Keyboard, Multi-Platform Compatible, 99 Keys, RGB Full Colour Rhythmic Backlighting, GASKET Construction, Hot Swappable,b Controls,Black",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S4"
+    },
+    {
+        "ID": 208,
+        "Product_Name": "AULA F21 2.4G/Bluetooth/USB Tri-Mode Numeric Keypad, Multi-Platform Compatible, 21 Keys, 20 Lighting Effects, Transparent Case, Hot Swappable",
+        "Price": "$79.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S5"
+    },
+    {
+        "ID": 209,
+        "Product_Name": "AULA F68 2.4G/Bluetooth/USB Tri-Mode Connection Gaming Mechanical Keyboard, Multi-Platform Compatible, 68 Keys, 20 Lighting Effects, Hot Swap,Transparent",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S1"
+    },
+    {
+        "ID": 210,
+        "Product_Name": "AULA F3018 USB/2.4G Dual-Mode Connection Gaming Mechanical Keyboard, Multi-Platform Compatible, 104 Keys, Full Keys Conflict-Free Design, Cool Backlighting,Black Gray",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S3"
+    },
+    {
+        "ID": 211,
+        "Product_Name": "AULA F3087 Wired Gaming Mechanical Keyboard, Multi-Platform Compatible, 87 Keys, Full Keys Without Punch, Illuminated Desktop Notebook PC Gaming Keyboard, Black Gray",
+        "Price": "$89.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001T1"
+    },
+    {
+        "ID": 212,
+        "Product_Name": "AULA F81 Tri-Mode Connection Transparent Custom Mechanical Keyboard, Hot Swap, Gasket Construction, RGB Lighting, 81 Keyboards, Office Gaming Gaming Keyboards,Clear",
+        "Price": "$139.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S8"
+    },
+    {
+        "ID": 213,
+        "Product_Name": "AULA F3032 2.4G/Bluetooth/USB Tri-mode Connection Gaming Mechanical Keyboard, Multi-Platform Compatible, 87 Keys, Transparent Full Keys Hot Swap, Music Rhythm,Silver",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001R3"
+    },
+    {
+        "ID": 214,
+        "Product_Name": "ikbc C87 Ergonomic Wired Mechanical Keyboard with Cherry MX Brown Switch for Windows, Mac, Tenkeyless Keyboard Upgraded with Mistel PBT Double Shot Keycaps for Desktop and Laptop, Solid Build Black",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-04KU-00039"
+    },
+    {
+        "ID": 215,
+        "Product_Name": "iQunix ZX75 Gravity Wave 75% RGB Mechanical Keyboard with Volume Knob, 81 Keys Hotswap Cherry MX Red Switches Wireless Gaming Keyboard, Supports Bluetooth 5.1, 2.4GHz and Wired, for Win/Mac",
+        "Price": "$344.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-017F-00022"
+    },
+    {
+        "ID": 216,
+        "Product_Name": "Mechanical Keyboard, Star Sky Wired Gaming Keyboard Backlit Ultra-Slim USB Keyboards with Red Switches 98 Keys for PC Windows Computer Laptop - Grey&White",
+        "Price": "$119.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-04KU-00020"
+    },
+    {
+        "ID": 217,
+        "Product_Name": "AULA F3032 2.4G/Bluetooth/USB Tri-mode Connection Gaming Mechanical Keyboard, Multi-Platform Compatible, 87 Keys, Transparent Full Keys Hot Swap, Music Rhythm,Silver",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001R7"
+    },
+    {
+        "ID": 218,
+        "Product_Name": "AULA F3018 USB/2.4G Dual-Mode Connection Gaming Mechanical Keyboard, Multi-Platform Compatible, 104 Keys, Full Keys Conflict-Free Design, Cool Backlighting,Black Gray Cyan",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001S7"
+    },
+    {
+        "ID": 219,
+        "Product_Name": "AULA F3018 USB/2.4G Dual-Mode Connection Gaming Mechanical Keyboard, Multi-Platform Compatible, 104 Keys, Full Keys Conflict-Free Design, Cool Backlighting,Black Gray Red",
+        "Price": "$129.99",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-000V-001T0"
+    },
+    {
+        "ID": 220,
+        "Product_Name": "Open Box ASUS ROG Falchion Ace 65% RGB Compact Gaming Mechanical Keyboard, Lubed ROG NX Red Switches & Switch Stabilizers, Sound-Dampening Foam, PBT Keycaps, Wired with KVM, Three Angles, Cover Case-White",
+        "Price": "$114.29",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/N82E16823193129R"
+    },
+    {
+        "ID": 221,
+        "Product_Name": "Open Box KINESIS Gaming Freestyle Edge RGB Split Mechanical Keyboard (MX Red)",
+        "Price": "$196.01",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-006V-00004R"
+    },
+    {
+        "ID": 222,
+        "Product_Name": "MSI Vigor GK30 Combo, 6-Zone RGB GK30 Gaming Keyboard & GM11 Gaming Mouse, Water Repellent & Splash-Proof, 5000 DPI",
+        "Price": "$94.99",
+        "Rating": "79",
+        "URL": "https://www.newegg.ca/p/0GA-00UW-000B6"
+    },
+    {
+        "ID": 223,
+        "Product_Name": "Razer BlackWidow V4 Mechanical Gaming Keyboard: Yellow Switches Linear & Silent - Chroma RGB - 6 Dedicated Macro Keys - Magnetic Wrist Rest - Doubleshot ABS Keycaps - Multi-Function Roller &Media Keys",
+        "Price": "$287.49",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16823114130"
+    },
+    {
+        "ID": 224,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(30PCS)(Transparent Switch)",
+        "Price": "$79.23",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002D9"
+    },
+    {
+        "ID": 225,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(10PCS)(Silent Peach Switch)",
+        "Price": "$54.93",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002H2"
+    },
+    {
+        "ID": 226,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(10PCS)(Purple Switch)",
+        "Price": "$46.61",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-00308"
+    },
+    {
+        "ID": 227,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(30PCS)(Golden Switch)",
+        "Price": "$65.42",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-00335"
+    },
+    {
+        "ID": 228,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(110PCS)(Brown Switch)",
+        "Price": "$127.47",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-00330"
+    },
+    {
+        "ID": 229,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(70PCS)(Transparent Switch)",
+        "Price": "$148.71",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002D5"
+    },
+    {
+        "ID": 230,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(10PCS)(Green Switch)",
+        "Price": "$46.61",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002T6"
+    },
+    {
+        "ID": 231,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(110PCS)(Silent Lemon Switch)",
+        "Price": "$203.66",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002G0"
+    },
+    {
+        "ID": 232,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(110PCS)(Dust-Proof Blue)",
+        "Price": "$127.47",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002R4"
+    },
+    {
+        "ID": 233,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(70PCS)(Dust-Proof Brown)",
+        "Price": "$93.32",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002R2"
+    },
+    {
+        "ID": 234,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(110PCS)(Purple Switch)",
+        "Price": "$127.47",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002S4"
+    },
+    {
+        "ID": 235,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(90PCS)(Green Switch)",
+        "Price": "$114.65",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002T9"
+    },
+    {
+        "ID": 236,
+        "Product_Name": "Silent Keyboard Switch Lemon Tactile 3Pin 35g Light Pressure Pre-lubed For Mechanical Keyboard Switches Accessories(30 PCS)(Outemu Silent Lemon)",
+        "Price": "$60.60",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002H0"
+    },
+    {
+        "ID": 237,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(10PCS)(Dust-Proof Black)",
+        "Price": "$46.61",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002R6"
+    },
+    {
+        "ID": 238,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(110PCS)(Silent Peach Switch)",
+        "Price": "$203.66",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002H7"
+    },
+    {
+        "ID": 239,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(110PCS)(Dust-Proof Red)",
+        "Price": "$127.47",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002U0"
+    },
+    {
+        "ID": 240,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(90PCS)(Silent Ocean Switch)",
+        "Price": "$176.93",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002D2"
+    },
+    {
+        "ID": 241,
+        "Product_Name": "Pineapple Switch 5 Pins 36g Linear Apply Light Pressure For Mechanical Keyboard Custom MX Switches Extension Spring(110 PCS)(Pineapple)",
+        "Price": "$148.44",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-00333"
+    },
+    {
+        "ID": 242,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(70PCS)(Dust-Proof Red)",
+        "Price": "$93.32",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002R8"
+    },
+    {
+        "ID": 243,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(110PCS)(Outemu Panda Switch)",
+        "Price": "$203.66",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002F3"
+    },
+    {
+        "ID": 244,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(90PCS)(Blue Switch)",
+        "Price": "$114.65",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-00314"
+    },
+    {
+        "ID": 245,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(110PCS)(Silent Gray Switch)",
+        "Price": "$196.73",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002T8"
+    },
+    {
+        "ID": 246,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(70PCS)(Dust-Proof Green)",
+        "Price": "$93.32",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002S7"
+    },
+    {
+        "ID": 247,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(10PCS)(Transparent Switch)",
+        "Price": "$54.93",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002H3"
+    },
+    {
+        "ID": 248,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(70PCS)(Dust-proof Silver)",
+        "Price": "$148.71",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002H1"
+    },
+    {
+        "ID": 249,
+        "Product_Name": "Silent Keyboard Switch Lemon Tactile 3Pin 35g Light Pressure Pre-lubed For Mechanical Keyboard Switches Accessories(90 PCS)(Outemu Silent Lemon)",
+        "Price": "$112.85",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002F0"
+    },
+    {
+        "ID": 250,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(90PCS)(Dust-Proof Brown)",
+        "Price": "$114.65",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002V6"
+    },
+    {
+        "ID": 251,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(110PCS)(Dust-Proof Purple)",
+        "Price": "$127.47",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002S3"
+    },
+    {
+        "ID": 252,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(10PCS)(Black Switch)",
+        "Price": "$46.61",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002V9"
+    },
+    {
+        "ID": 253,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(70PCS)(Golden Switch)",
+        "Price": "$93.32",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-00331"
+    },
+    {
+        "ID": 254,
+        "Product_Name": "Switches Mechanical Keyboard Switch 3Pin Silent Clicky Linear Tactile Similar Holy Panda Switch Lube RGB Gaming MX Switch(30PCS)(Dust-proof Silver)",
+        "Price": "$79.23",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002F9"
+    },
+    {
+        "ID": 255,
+        "Product_Name": "Silent Keyboard Switch Lemon Tactile 3Pin 35g Light Pressure Pre-lubed For Mechanical Keyboard Switches Accessories(10 PCS)(Outemu Silent Lemon)",
+        "Price": "$44.58",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002G2"
+    },
+    {
+        "ID": 256,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(10PCS)(Brown Switch)",
+        "Price": "$46.61",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-00313"
+    },
+    {
+        "ID": 257,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(70PCS)(Dust-Proof Purple)",
+        "Price": "$93.32",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002T7"
+    },
+    {
+        "ID": 258,
+        "Product_Name": "Switch Mechanical Keyboard Switch 3Pin Clicky Linear Tactile Silent Switches RGB LED SMD Gaming Compatible With MX Switch(10PCS)(Dust-Proof Red)",
+        "Price": "$46.61",
+        "Rating": "No rating",
+        "URL": "https://www.newegg.ca/p/32N-00YW-002W0"
+    },
+    {
+        "ID": 259,
+        "Product_Name": "Aorus 15 BSF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834725214"
+    },
+    {
+        "ID": 260,
+        "Product_Name": "MSI Katana 17 B13V, 17.3\" FHD 144Hz IPS-Level, Intel Core i7-13620H (10-core), NVIDIA GeForce RTX 4070 8GB GDDR6, 16GB DDR5 RAM, 1TB NVMe SSD, Windows 11 Home (B13VGK-645CA)",
+        "Price": "$1,699.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834156549"
+    },
+    {
+        "ID": 261,
+        "Product_Name": "GIGABYTE AORUS 17H - 17.3\" FHD 1920x1080 360Hz Display - NVIDIA GeForce RTX 4080 Laptop GPU 12GB - Intel Core i7-13700H - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 17H BXF-74US554SH)",
+        "Price": "$2,499.99",
+        "Rating": "14",
+        "URL": "https://www.newegg.ca/p/N82E16834233554"
+    },
+    {
+        "ID": 262,
+        "Product_Name": "Aorus 17X Series 17X AZG-65US665SH 17.3'' 240 Hz IPS Intel Core i9-14900HX GeForce RTX 4090 Laptop GPU 32GB Memory 2 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$3,899.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/royal-black-aorus-17x-series-17x-azg-65us665sh-gaming/p/N82E16834233570"
+    },
+    {
+        "ID": 263,
+        "Product_Name": "GIGABYTE G6 Series G6 MF-H2US854KH 16\" 165 Hz IPS Intel Core i7-13620H GeForce RTX 4050 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,299.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/black-gigabyte-g6-series-g6-mf-h2us854kh-gaming/p/N82E16834233582"
+    },
+    {
+        "ID": 264,
+        "Product_Name": "MSI Notebooks Modern 15 AMD Ryzen 5 7000 Series 16GB Memory 512 GB PCIe SSD 15.6\" Windows 11 Home Modern 15 B7M-097CA",
+        "Price": "$799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/classic-black-msi-modern-15-b7m-097ca/p/N82E16834156491"
+    },
+    {
+        "ID": 265,
+        "Product_Name": "MSI Prestige 13 EVO 13.3\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i7-1360P Iris Xe 16GB LPDDR5 512GB NVMe SSD Win 11",
+        "Price": "$999.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834156585"
+    },
+    {
+        "ID": 266,
+        "Product_Name": "ASUS ROG Strix SCAR 17 X3D (2023) Gaming Laptop, 17.3\" QHD 240Hz/3ms, 100% DCI-P3 Display, GeForce RTX 4090, AMD Ryzen 9 7945HX3D, 32GB DDR5, 2TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G733PYV-XH97",
+        "Price": "$3,999.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/off-black-asus-rog-strix-scar-17-x3d-g733pyv-xh97-gaming/p/N82E16834236479"
+    },
+    {
+        "ID": 267,
+        "Product_Name": "MSI TITAN 18 HX 18\" UHD+ 120Hz Mini LED Intel\u00ae Core\u2122 i9-14900HX RTX 4080 64GBDDR5 4TB NVMe SSD Win 11 Pro",
+        "Price": "$5,699.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834156606"
+    },
+    {
+        "ID": 268,
+        "Product_Name": "GIGABYTE AORUS 15X - 15.6\" 16:9 QHD 2560x1440 165Hz - NVIDIA GeForce RTX 4070 Laptop GPU 8GB - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 15X ASF-D3US754SH)",
+        "Price": "$2,099.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/black-aorus-15x-series-15x-asf-d3us754sh-gaming/p/N82E16834725220"
+    },
+    {
+        "ID": 269,
+        "Product_Name": "GIGABYTE AERO 16 OLED BSF-A3US964SP 16'' 60 Hz OLED Intel Core i9-13900H GeForce RTX 4070 Laptop GPU 32GB Memory 1 TB Gen4 SSD Windows 11 Pro 64-bit Gaming Laptop",
+        "Price": "$2,549.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834233555"
+    },
+    {
+        "ID": 270,
+        "Product_Name": "GIGABYTE G6X Series G6X 9KG-43US864SH 16'' 165 Hz IPS Intel Core i7-13650HX GeForce RTX 4060 Laptop GPU 32GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/gunmetal-gray-gigabyte-g6x-series-g6x-9kg-43us864sh-gaming/p/N82E16834233576"
+    },
+    {
+        "ID": 271,
+        "Product_Name": "ASUS Zenbook Consumer Notebook 14\" WQXGA AMD Ryzen 7 7730U AMD Radeon 16GB 1TB SSD Windows 11 Home UM3402YAR-DS71T-CA",
+        "Price": "$1,199.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/jade-black-asus-zenbook-14-oled-um3402yar-ds71t-ca/p/N82E16834236354"
+    },
+    {
+        "ID": 272,
+        "Product_Name": "Aorus 16 BSF-73US654SH 16.0\" QHD 240 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU (140W) 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$2,499.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725221"
+    },
+    {
+        "ID": 273,
+        "Product_Name": "GIGABYTE AORUS 17X - 17.3\" 16:9 Thin Bezel QHD 2560x1440 240Hz - NVIDIA GeForce RTX 4080 Laptop GPU 12GB GDDR6 - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Pro - Gaming Laptop",
+        "Price": "$3,399.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834725228"
+    },
+    {
+        "ID": 274,
+        "Product_Name": "ASUS Zenbook 14 Duo 14\u201d OLED 1920x1200 Dual Screen Laptop w/ Detachable Keyboard, Intel Core Ultra 7 Processor 155H 1.4 GHz, Intel Arc Graphics, 16GB DDR5, 1TB SSD, Windows 11 Home (UX8406MA-DS71T-CA)",
+        "Price": "$2,199.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/inkwell-gray-asus-zenbook-14-duo-ux8406ma-ds71t-ca/p/N82E16834236495"
+    },
+    {
+        "ID": 275,
+        "Product_Name": "Aorus 15 BKF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725215"
+    },
+    {
+        "ID": 276,
+        "Product_Name": "MSI Modern 14 Laptop C13M-606US Intel i5-1335U 16GB RAM 512 GB SSD 14.0\" Windows 11 Home Intel Iris Xe Graphics",
+        "Price": "$999.00",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/beige-rose-msi-modern-14-c13m-606us-work-business/p/N82E16834156486"
+    },
+    {
+        "ID": 277,
+        "Product_Name": "Aorus 15 BSF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834725214"
+    },
+    {
+        "ID": 278,
+        "Product_Name": "MSI Katana 17 B13V, 17.3\" FHD 144Hz IPS-Level, Intel Core i7-13620H (10-core), NVIDIA GeForce RTX 4070 8GB GDDR6, 16GB DDR5 RAM, 1TB NVMe SSD, Windows 11 Home (B13VGK-645CA)",
+        "Price": "$1,699.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834156549"
+    },
+    {
+        "ID": 279,
+        "Product_Name": "GIGABYTE AORUS 17H - 17.3\" FHD 1920x1080 360Hz Display - NVIDIA GeForce RTX 4080 Laptop GPU 12GB - Intel Core i7-13700H - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 17H BXF-74US554SH)",
+        "Price": "$2,499.99",
+        "Rating": "14",
+        "URL": "https://www.newegg.ca/p/N82E16834233554"
+    },
+    {
+        "ID": 280,
+        "Product_Name": "Aorus 17X Series 17X AZG-65US665SH 17.3'' 240 Hz IPS Intel Core i9-14900HX GeForce RTX 4090 Laptop GPU 32GB Memory 2 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$3,899.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/royal-black-aorus-17x-series-17x-azg-65us665sh-gaming/p/N82E16834233570"
+    },
+    {
+        "ID": 281,
+        "Product_Name": "GIGABYTE G6 Series G6 MF-H2US854KH 16\" 165 Hz IPS Intel Core i7-13620H GeForce RTX 4050 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,299.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/black-gigabyte-g6-series-g6-mf-h2us854kh-gaming/p/N82E16834233582"
+    },
+    {
+        "ID": 282,
+        "Product_Name": "MSI Notebooks Modern 15 AMD Ryzen 5 7000 Series 16GB Memory 512 GB PCIe SSD 15.6\" Windows 11 Home Modern 15 B7M-097CA",
+        "Price": "$799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/classic-black-msi-modern-15-b7m-097ca/p/N82E16834156491"
+    },
+    {
+        "ID": 283,
+        "Product_Name": "MSI Prestige 13 EVO 13.3\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i7-1360P Iris Xe 16GB LPDDR5 512GB NVMe SSD Win 11",
+        "Price": "$999.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834156585"
+    },
+    {
+        "ID": 284,
+        "Product_Name": "ASUS ROG Strix SCAR 17 X3D (2023) Gaming Laptop, 17.3\" QHD 240Hz/3ms, 100% DCI-P3 Display, GeForce RTX 4090, AMD Ryzen 9 7945HX3D, 32GB DDR5, 2TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G733PYV-XH97",
+        "Price": "$3,999.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/off-black-asus-rog-strix-scar-17-x3d-g733pyv-xh97-gaming/p/N82E16834236479"
+    },
+    {
+        "ID": 285,
+        "Product_Name": "MSI TITAN 18 HX 18\" UHD+ 120Hz Mini LED Intel\u00ae Core\u2122 i9-14900HX RTX 4080 64GBDDR5 4TB NVMe SSD Win 11 Pro",
+        "Price": "$5,699.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834156606"
+    },
+    {
+        "ID": 286,
+        "Product_Name": "GIGABYTE AORUS 15X - 15.6\" 16:9 QHD 2560x1440 165Hz - NVIDIA GeForce RTX 4070 Laptop GPU 8GB - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 15X ASF-D3US754SH)",
+        "Price": "$2,099.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/black-aorus-15x-series-15x-asf-d3us754sh-gaming/p/N82E16834725220"
+    },
+    {
+        "ID": 287,
+        "Product_Name": "GIGABYTE AERO 16 OLED BSF-A3US964SP 16'' 60 Hz OLED Intel Core i9-13900H GeForce RTX 4070 Laptop GPU 32GB Memory 1 TB Gen4 SSD Windows 11 Pro 64-bit Gaming Laptop",
+        "Price": "$2,549.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834233555"
+    },
+    {
+        "ID": 288,
+        "Product_Name": "GIGABYTE G6X Series G6X 9KG-43US864SH 16'' 165 Hz IPS Intel Core i7-13650HX GeForce RTX 4060 Laptop GPU 32GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/gunmetal-gray-gigabyte-g6x-series-g6x-9kg-43us864sh-gaming/p/N82E16834233576"
+    },
+    {
+        "ID": 289,
+        "Product_Name": "ASUS Zenbook Consumer Notebook 14\" WQXGA AMD Ryzen 7 7730U AMD Radeon 16GB 1TB SSD Windows 11 Home UM3402YAR-DS71T-CA",
+        "Price": "$1,199.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/jade-black-asus-zenbook-14-oled-um3402yar-ds71t-ca/p/N82E16834236354"
+    },
+    {
+        "ID": 290,
+        "Product_Name": "Aorus 16 BSF-73US654SH 16.0\" QHD 240 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU (140W) 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$2,499.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725221"
+    },
+    {
+        "ID": 291,
+        "Product_Name": "GIGABYTE AORUS 17X - 17.3\" 16:9 Thin Bezel QHD 2560x1440 240Hz - NVIDIA GeForce RTX 4080 Laptop GPU 12GB GDDR6 - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Pro - Gaming Laptop",
+        "Price": "$3,399.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834725228"
+    },
+    {
+        "ID": 292,
+        "Product_Name": "ASUS Zenbook 14 Duo 14\u201d OLED 1920x1200 Dual Screen Laptop w/ Detachable Keyboard, Intel Core Ultra 7 Processor 155H 1.4 GHz, Intel Arc Graphics, 16GB DDR5, 1TB SSD, Windows 11 Home (UX8406MA-DS71T-CA)",
+        "Price": "$2,199.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/inkwell-gray-asus-zenbook-14-duo-ux8406ma-ds71t-ca/p/N82E16834236495"
+    },
+    {
+        "ID": 293,
+        "Product_Name": "Aorus 15 BKF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725215"
+    },
+    {
+        "ID": 294,
+        "Product_Name": "MSI Modern 14 Laptop C13M-606US Intel i5-1335U 16GB RAM 512 GB SSD 14.0\" Windows 11 Home Intel Iris Xe Graphics",
+        "Price": "$999.00",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/beige-rose-msi-modern-14-c13m-606us-work-business/p/N82E16834156486"
+    },
+    {
+        "ID": 295,
+        "Product_Name": "Lenovo Notebook ThinkPad E16 1.30GHz 16GB Memory 256 GB SSD Intel Iris Xe Graphics 16.0\" Windows 11 Pro Gen 1",
+        "Price": "$1,150.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/graphite-black-lenovo-thinkpad-e16-gen-1/p/N82E16834840325"
+    },
+    {
+        "ID": 296,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - Core i7 12th Gen 1265U Deca-core (10 Core) 1.80 GHz - 16GB Ram - 256 GB SSD - Windows 10 Pro - Platinum  S8G-00001",
+        "Price": "$1,954.22",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-s8g-00001-platinum/p/N82E16834736751"
+    },
+    {
+        "ID": 297,
+        "Product_Name": "DELL Mobile Workstation 17\" Precision 7780 Intel Core i7 13th Gen 2.10GHz 32GB Memory 512 GB SSD NVIDIA Quadro RTX 4000 17.0\" Windows 11 Pro 7780 Notebook Laptop",
+        "Price": "$4,682.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/dell-precision-7780/p/N82E16834833212"
+    },
+    {
+        "ID": 298,
+        "Product_Name": "MSI Ultra Thin and Light Laptop AMD Ryzen 7 PRO 7730U 16GB Memory 1 TB NVMe SSD AMD Radeon Graphics 15.6\" Windows 11 Pro 64-bit Modern 15 B7M-223US",
+        "Price": "$1,777.99",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/classic-black-msi-modern-15-b7m-223us-work-business/p/N82E16834156499"
+    },
+    {
+        "ID": 299,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - Core i5 12th Gen i5-1245U Deca-core (10 Core) - 16GB RAM - 256GB SSD - Windows 11 Pro - Graphite  QIA-00019",
+        "Price": "$1,715.11",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-tablet-qia-00019-graphite/p/N82E16834736759"
+    },
+    {
+        "ID": 300,
+        "Product_Name": "HP ProBook 450 G10 15.6\" Notebook - Full HD - 1920 x 1080 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz - 8 GB Total RAM - 256 GB SSD - Pike Silver Plastic - Intel Chip - Windows",
+        "Price": "COMING SOON",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000D-1DC26"
+    },
+    {
+        "ID": 301,
+        "Product_Name": "MSI Thin GF63 15.6\" FHD 144Hz IPS Gaming Notebook, Intel Core i5-12450H (4P+4E cores, up to 4.4GHz), NVIDIA GeForce RTX 4060 Laptop GPU, 16GB DDR4, 512GB NVMe SSD, Win 11 Home (Thin GF63 12VF-275CA)",
+        "Price": "$1,291.44",
+        "Rating": "12",
+        "URL": "https://www.newegg.ca/p/N82E16834156489"
+    },
+    {
+        "ID": 302,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - 1.2GHz Intel Core i7 1255U - 16GB DDR5 - 256GB SSD - Windows 11 Pro - Graphite  QIM-00017",
+        "Price": "$1,755.11",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-qim-00017-graphite/p/N82E16834736737"
+    },
+    {
+        "ID": 303,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - Intel i5 1245U - 16GB RAM - 256GB SSD - Intel Xe Graphics - Windows 10 Pro - Platinum  S7B-00001",
+        "Price": "$1,815.55",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-s7b-00001-platinum/p/N82E16834736747"
+    },
+    {
+        "ID": 304,
+        "Product_Name": "Acer 16\" TravelMate Notebook AMD Ryzen 5 Pro 6650U 16GB Memory 512 GB SSD AMD Radeon 660M Windows 11 Pro",
+        "Price": "$921.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/slate-blue-acer-travelmate-tmp416-41-r6y5/p/N82E16834360240"
+    },
+    {
+        "ID": 305,
+        "Product_Name": "MSI Ultra Thin and Light Laptop Intel Core i7-1355U 16GB Memory 1 TB NVMe SSD Intel Iris Xe Graphics 14.0\" Windows 11 Home 64-bit Modern 14 C13M-621US",
+        "Price": "$1,496.45",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/urban-silver-msi-modern-14-c13m-621us-work-business/p/N82E16834156501"
+    },
+    {
+        "ID": 306,
+        "Product_Name": "MSI Prestige 13 EVO 13.3\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i5-1240P Iris Xe 16GB LPDDR5 512GB NVMe SSD Win 11 Home, A12M-070US",
+        "Price": "$1,688.73",
+        "Rating": "59",
+        "URL": "https://www.newegg.ca/pure-white-msi-prestige-13evo-a12m-070us-work-business/p/N82E16834156460"
+    },
+    {
+        "ID": 307,
+        "Product_Name": "ASUS Zenbook Pro 14 Duo 14.5\" 16:10 Touch Display, 120Hz Refresh Rate, ScreenPad Plus, Intel i9-13900H CPU, NVIDIA GeForce RTX 4060, 32GB RAM, 1TB SSD, Windows 11 Home, Tech Black, UX8402VV-PS96T",
+        "Price": "$4,377.45",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/tech-black-asus-zenbook-pro-14-duo-oled-ux8402vv-ps96t-content-creation-home-personal/p/N82E16834236457"
+    },
+    {
+        "ID": 308,
+        "Product_Name": "MSI Laptop Modern 14 Intel Core i5 11th Gen 1155G7 (2.50GHz) 8GB Memory 512 GB NVMe SSD Intel Iris Xe Graphics 14.0\" Windows 11 Home 64-bit Modern 14 B11MOU-1024",
+        "Price": "$1,777.99",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/msi-modern-14b-b11mou-1024/p/N82E16834156246"
+    },
+    {
+        "ID": 309,
+        "Product_Name": "MSI PRESTIGE 14 EVO 14\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i7-13700H Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro, B13M-269US",
+        "Price": "$2,802.99",
+        "Rating": "59",
+        "URL": "https://www.newegg.ca/urban-silver-msi-prestige-14evo-b13m-269us-work-business/p/N82E16834156439"
+    },
+    {
+        "ID": 310,
+        "Product_Name": "Lenovo IdeaPad Slim 3 15AMN8 15.6\" FHD IPS Laptop, AMD Ryzen 5 7520U Quad Core 2.8GHz-4.3GHz, AMD Radeon 610M Graphics, 8GB DDR5 RAM, 512GB SSD, 720p Camera With Privacy Shutter, Windows 11 Home, Abys",
+        "Price": "$675.99",
+        "Rating": "13",
+        "URL": "https://www.newegg.ca/abyss-blue-lenovo-ideapad-slim-3-15amn8-home-personal-mainstream-work-business/p/N82E16834840348"
+    },
+    {
+        "ID": 311,
+        "Product_Name": "Lenovo IdeaPad Flex 5 14ALC7 14\" 8GB 256GB SSD AMD Ryzen 5 5500U 3GHz WIN11H, Stone Blue",
+        "Price": "$1,712.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/stone-blue-lenovo-ideapad-flex-5-14alc7-home-personal/p/1TS-000E-10G35"
+    },
+    {
+        "ID": 312,
+        "Product_Name": "LG Gram Laptop Intel Core i7 11th Gen 1165G7 (2.80GHz) 16GB Memory 1 TB M.2 SSD Intel Iris Xe Graphics 15.6\" Windows 10 Pro 64-bit 15Z90P-N.APS7U1",
+        "Price": "$3,570.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/lg-gram-15z90p-n-aps7u1-home-personal/p/1TS-002J-001M4"
+    },
+    {
+        "ID": 313,
+        "Product_Name": "CHUWI HeroBook Pro 14.1'' Laptop Computer, 8GB RAM 256GB SSD, Windows 11 Laptop, Intel Celeron N4020 Processor, 1920x1080 FHD Display, Ultra Slim Notebook PC, WiFi, BT4.2",
+        "Price": "$369.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-006G-00057"
+    },
+    {
+        "ID": 314,
+        "Product_Name": "CHUWI 15.6'' GemiBook Plus Laptop Computer, Windows 11 Laptop 12th Gen Intel Alder Lake N100 (Up to 3.4GHz) 16GB RAM 512GB SSD PCIE, 1920X1080 HD Display Ultra Thin Laptop,HDMI/WiFi6/BT5.2/Webcam/38WH",
+        "Price": "$515.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/grey-chuwi-gemibook-plus-home-personal/p/1TS-006G-00079"
+    },
+    {
+        "ID": 315,
+        "Product_Name": "Hasee X4 (14'', i3, Full-Aluminum), Touch Bar Laptop Computer, i3-6157U 2.4GHz 2-Core, 8G Dual-Channel DDR4 RAM, 512G M.2 SSD, 14'' FHD 100%sRGB IPS Display, Backlit KB, WF, BT, Win11, Dusty Blue",
+        "Price": "$423.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/aluminum-blue-hasee-x4-haus01-mainstream/p/1TS-00F6-00010"
+    },
+    {
+        "ID": 316,
+        "Product_Name": "HP 15 Laptop, 15.6\" IPS FHD Display, Intel Core i5-1135G7 Upto 4.2GHz, 16GB RAM, 512GB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro S",
+        "Price": "$919.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/silver-hp-15/p/1TS-000D-0MD52"
+    },
+    {
+        "ID": 317,
+        "Product_Name": "CHUWI GemiBook XPro 14.1\" Laptop 256GB SSD 8GB DDR5 3.4GHz Intel N100 Quad Core Windows11 Gaming Notebook Computer WIFI 6 1920*1080 IPS Display",
+        "Price": "$405.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/1TS-006G-00059"
+    },
+    {
+        "ID": 318,
+        "Product_Name": "Refurbished HP EliteBook 840 G5 Intel Core i5 8th Gen 8350U (1.70GHz) 16 GB Memory 256 GB SSD Intel UHD Graphics 620 14.0\" Windows 11 Pro 64-bit",
+        "Price": "$344.99",
+        "Rating": "27",
+        "URL": "https://www.newegg.ca/hp-elitebook-840-g5/p/N82E16834273168"
+    },
+    {
+        "ID": 319,
+        "Product_Name": "Refurbished HP EliteBook 840 G3 Laptop Intel Core i5 6th Gen 6300U (2.40 GHz) 16 GB Memory 512 GB SSD Intel HD Graphics 520 14.0\" Windows 10 Pro 64-bit A Grade",
+        "Price": "$399.99",
+        "Rating": "94",
+        "URL": "https://www.newegg.ca/hp-elitebook-840-g3/p/N82E16834271970"
+    },
+    {
+        "ID": 320,
+        "Product_Name": "Refurbished 14\" HP Elitebook 840 G4 Laptop - Intel Core i7 2.8 GHz, 16GB RAM, 1TB SSD, 1920x1080 FHD, Windows 10 Pro - Grade B",
+        "Price": "$549.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000D-110P7"
+    },
+    {
+        "ID": 321,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480 14\" Full HD 1920 x 1080 Touchscreen Ultrabook- 8th Gen Intel QUAD Core i7-8650U 1.9GHz  32 GB RAM DDR4 1TB SSD,Wi-Fi, Bluetooth, Webcam Windows 11 Pro",
+        "Price": "$776.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-0WW96"
+    },
+    {
+        "ID": 322,
+        "Product_Name": "Refurbished Dell Latitude 3340 13.3\" LED Laptop 4th Gen Intel Core i5 CPU 8 GB DDR3 RAM 500 GB HD HDMI WiFi Webcam Windows 10 Home",
+        "Price": "$241.49",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/chocolate-black-dell-e-series-latitude-everyday-value/p/1TS-000A-0C6E2"
+    },
+    {
+        "ID": 323,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480 14\" Full HD 1920 x 1080 Touchscreen Ultrabook- 8th Gen Intel QUAD Core i7-8650U 1.9GHz  32 GB RAM DDR4 512 GB SSD,Wi-Fi, Bluetooth, Webcam Windows 11 Pro",
+        "Price": "$734.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-0WW88"
+    },
+    {
+        "ID": 324,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480s 14\" Full HD 1920 x 1080 Ultrabook- 8th Gen Intel QUAD Core i7-8650U 1.9GHz  16 GB RAM DDR4 256 GB SSD,Wi-Fi, Bluetooth,Webcam  Windows 10 Pro",
+        "Price": "$797.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-0ZZV0"
+    },
+    {
+        "ID": 325,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480 14\" Full HD 1920 x 1080 Touchscreen Ultrabook - 8th Gen Intel QUAD Core i5-8350U 1.7GHz  16 GB RAM DDR4 256 GB SSD,Wi-Fi, Bluetooth, Webcam Windows 11 Pro",
+        "Price": "$813.74",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-145C1"
+    },
+    {
+        "ID": 326,
+        "Product_Name": "MSI Katana 15 B12VFK-237CA 15.6\" 144 Hz Intel Core i7 12th Gen 12650H (2.30GHz) NVIDIA GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,954.99",
+        "Rating": "12",
+        "URL": "https://www.newegg.ca/p/N82E16834156449"
+    },
+    {
+        "ID": 327,
+        "Product_Name": "Dell - Inspiron 15 3520 Touch Laptop - Intel Core i5 - Intel UHD - 8GB Memory - 256GB SSD - Carbon Black\nNotebook i3520-5810BLK-PUS",
+        "Price": "$644.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000A-0ZNG2"
+    },
+    {
+        "ID": 328,
+        "Product_Name": "ASUS VivoBook 16 Laptop, 16\u201d WUXGA (1920 x 1200) 16:10 Display, AMD Ryzen 9 7940HS CPU 4.0GHz, AMD Radeon Graphics, 16GB RAM, 1TB SSD, Windows 11 Home, Cool Silver, M1605XA-EB96",
+        "Price": "$1,129.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834236478"
+    },
+    {
+        "ID": 329,
+        "Product_Name": "ASUS Laptop L410 Ultra Thin Laptop, 14\" FHD Display, Intel Celeron N4020 Processor, 4 GB RAM, 64 GB Storage, NumberPad, Windows 10 Home in S Mode, Star Black, L410MA-DB02",
+        "Price": "$267.00",
+        "Rating": "23",
+        "URL": "https://www.newegg.ca/black-asus-l410ma-db02/p/1TS-001A-02J29"
+    },
+    {
+        "ID": 330,
+        "Product_Name": "Lenovo IdeaPad Gaming 3 15.6\" 60Hz i5-10300 8GB RAM 256GB SSD 1TB HDD GTX 1650 4GB GDDR6 Only Black - 10th Gen i5-10300H Quad-Core - NVIDIA GeForce GTX 1650 4GB - Up to 4.5 GHz CPU Speed - In-pla",
+        "Price": "$859.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000E-0K040"
+    },
+    {
+        "ID": 331,
+        "Product_Name": "MSI Laptop Intel Core i5-1135G7 16GB Memory 512 GB NVMe SSD Intel Iris Xe Graphics 14.0\" Windows 10 Home 64-bit Prestige 14 Evo A11M-288",
+        "Price": "$749.99",
+        "Rating": "59",
+        "URL": "https://www.newegg.ca/msi-prestige-14-evo-a11m-288/p/N82E16834155698"
+    },
+    {
+        "ID": 332,
+        "Product_Name": "Microsoft Laptop Surface Laptop Go Intel Core i5-1035G1 4 GB LPDDR4X Memory 64 GB eMMC SSD Intel UHD Graphics 12.4\" Touchscreen Windows 10 in S mode 1ZO-00001",
+        "Price": "$450.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/platinum-microsoft-surface-laptop-go-1zo-00001-mainstream/p/N82E16834736380"
+    },
+    {
+        "ID": 333,
+        "Product_Name": "Refurbished HP 840 G6 EliteBook Laptop Intel Core i5 -8365U (1.60GHz) 16GB Memory 256 GB SSD Intel UHD Graphics 14.0\" Windows 11 Pro 64-bit",
+        "Price": "$322.00",
+        "Rating": "11",
+        "URL": "https://www.newegg.ca/hp-elitebook-840-g6-work-business/p/N82E16834273967"
+    },
+    {
+        "ID": 334,
+        "Product_Name": "Refurbished Lenovo Grade A Laptop ThinkPad T460 Intel Core i5 6th Gen 6300U (2.40GHz) 8GB Memory 256 GB SSD Intel HD Graphics 520 14.0\" Windows 10 Pro 64-bit",
+        "Price": "$340.00",
+        "Rating": "6",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-t460-work-business/p/N82E16834645879"
+    },
+    {
+        "ID": 335,
+        "Product_Name": "Refurbished Lenovo Grade A Laptop ThinkPad T480 Intel Core i5 8th Gen 8350U (1.70GHz) 8GB Memory 256 GB SSD Intel UHD Graphics 620 14.0\" Windows 10 Pro 64-bit",
+        "Price": "$409.22",
+        "Rating": "9",
+        "URL": "https://www.newegg.ca/lenovo-thinkpad-t480/p/N82E16834645912"
+    },
+    {
+        "ID": 336,
+        "Product_Name": "Refurbished Lenovo Grade B Laptop ThinkPad Intel Core i7-5600U 12GB Memory 256 GB SSD 14.0\" Windows 10 Pro 64-bit T450s",
+        "Price": "$438.75",
+        "Rating": "6",
+        "URL": "https://www.newegg.ca/lenovo-thinkpad-t450s/p/N82E16834850657"
+    },
+    {
+        "ID": 337,
+        "Product_Name": "Refurbished Lenovo Grade A Laptop ThinkPad Intel Core i5-6300U 8GB Memory 256 GB SSD Intel HD Graphics 520 14.0\" Windows 10 Pro 64-bit T460S",
+        "Price": "$300.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/lenovo-thinkpad-t460s/p/N82E16834645898"
+    },
+    {
+        "ID": 338,
+        "Product_Name": "Refurbished Dell Latitude 5501 Laptop 15.6\" - GRADE A - Intel Core i7 9th Gen - i7-9850H - Six Core 4.6Ghz - 512GB SSD - 16GB RAM - 1920x1080 FHD - Webcam - Backlit Keyboard - Windows 11 Pro",
+        "Price": "$589.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/dell-latitude-5501-work-business/p/1TS-000A-0YYW4"
+    },
+    {
+        "ID": 339,
+        "Product_Name": "Refurbished Acer Aspire 5 - 15.6\" FHD AMD Ryzen 7-5700U, 16GB RAM, 512GB SSD PCIe, Finger Print Reader,  Silver, Windows 11, 1 Year Acer Manufacturer Warranty (A515-45)",
+        "Price": "$629.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/acer-aspire-5-a515-45-r209-home-personal/p/1TS-000X-03GY0"
+    },
+    {
+        "ID": 340,
+        "Product_Name": "Refurbished Acer Aspire 5 - 15.6\" FHD AMD Ryzen 7-5700U, 16GB RAM, 512GB SSD PCIe, Finger Print Reader,  Silver, Windows 11, 1 Year Acer Manufacturer Warranty (A515-45)",
+        "Price": "$629.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/acer-aspire-5-a515-45-r209-home-personal/p/1TS-000X-03GY0"
+    },
+    {
+        "ID": 341,
+        "Product_Name": "Refurbished 2020 Dell Precision 3551 Laptop 15.6\" - Intel Core i7 10th Gen - i7-10850H - Six Core 5.1Ghz - 256GB SSD - 16GB RAM - Nvidia Quadro P620 2GB - 1920x1080 FHD - Windows 10 Pro Silver",
+        "Price": "$1,201.39",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/dell-precision-3551-laptop-workstation/p/1TS-000A-0FKA5"
+    }
+]

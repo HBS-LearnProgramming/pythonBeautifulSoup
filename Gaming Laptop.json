@@ -1,0 +1,583 @@
+[
+    {
+        "ID": 1,
+        "Product_Name": "Aorus 15 BSF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834725214"
+    },
+    {
+        "ID": 2,
+        "Product_Name": "MSI Katana 17 B13V, 17.3\" FHD 144Hz IPS-Level, Intel Core i7-13620H (10-core), NVIDIA GeForce RTX 4070 8GB GDDR6, 16GB DDR5 RAM, 1TB NVMe SSD, Windows 11 Home (B13VGK-645CA)",
+        "Price": "$1,699.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834156549"
+    },
+    {
+        "ID": 3,
+        "Product_Name": "GIGABYTE AORUS 17H - 17.3\" FHD 1920x1080 360Hz Display - NVIDIA GeForce RTX 4080 Laptop GPU 12GB - Intel Core i7-13700H - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 17H BXF-74US554SH)",
+        "Price": "$2,499.99",
+        "Rating": "14",
+        "URL": "https://www.newegg.ca/p/N82E16834233554"
+    },
+    {
+        "ID": 4,
+        "Product_Name": "Aorus 17X Series 17X AZG-65US665SH 17.3'' 240 Hz IPS Intel Core i9-14900HX GeForce RTX 4090 Laptop GPU 32GB Memory 2 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$3,899.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/royal-black-aorus-17x-series-17x-azg-65us665sh-gaming/p/N82E16834233570"
+    },
+    {
+        "ID": 5,
+        "Product_Name": "GIGABYTE G6 Series G6 MF-H2US854KH 16\" 165 Hz IPS Intel Core i7-13620H GeForce RTX 4050 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,299.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/black-gigabyte-g6-series-g6-mf-h2us854kh-gaming/p/N82E16834233582"
+    },
+    {
+        "ID": 6,
+        "Product_Name": "MSI Notebooks Modern 15 AMD Ryzen 5 7000 Series 16GB Memory 512 GB PCIe SSD 15.6\" Windows 11 Home Modern 15 B7M-097CA",
+        "Price": "$799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/classic-black-msi-modern-15-b7m-097ca/p/N82E16834156491"
+    },
+    {
+        "ID": 7,
+        "Product_Name": "MSI Prestige 13 EVO 13.3\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i7-1360P Iris Xe 16GB LPDDR5 512GB NVMe SSD Win 11",
+        "Price": "$999.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834156585"
+    },
+    {
+        "ID": 8,
+        "Product_Name": "ASUS ROG Strix SCAR 17 X3D (2023) Gaming Laptop, 17.3\" QHD 240Hz/3ms, 100% DCI-P3 Display, GeForce RTX 4090, AMD Ryzen 9 7945HX3D, 32GB DDR5, 2TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G733PYV-XH97",
+        "Price": "$3,999.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/off-black-asus-rog-strix-scar-17-x3d-g733pyv-xh97-gaming/p/N82E16834236479"
+    },
+    {
+        "ID": 9,
+        "Product_Name": "MSI TITAN 18 HX 18\" UHD+ 120Hz Mini LED Intel\u00ae Core\u2122 i9-14900HX RTX 4080 64GBDDR5 4TB NVMe SSD Win 11 Pro",
+        "Price": "$5,699.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834156606"
+    },
+    {
+        "ID": 10,
+        "Product_Name": "GIGABYTE AORUS 15X - 15.6\" 16:9 QHD 2560x1440 165Hz - NVIDIA GeForce RTX 4070 Laptop GPU 8GB - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 15X ASF-D3US754SH)",
+        "Price": "$2,099.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/black-aorus-15x-series-15x-asf-d3us754sh-gaming/p/N82E16834725220"
+    },
+    {
+        "ID": 11,
+        "Product_Name": "GIGABYTE AERO 16 OLED BSF-A3US964SP 16'' 60 Hz OLED Intel Core i9-13900H GeForce RTX 4070 Laptop GPU 32GB Memory 1 TB Gen4 SSD Windows 11 Pro 64-bit Gaming Laptop",
+        "Price": "$2,549.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834233555"
+    },
+    {
+        "ID": 12,
+        "Product_Name": "GIGABYTE G6X Series G6X 9KG-43US864SH 16'' 165 Hz IPS Intel Core i7-13650HX GeForce RTX 4060 Laptop GPU 32GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/gunmetal-gray-gigabyte-g6x-series-g6x-9kg-43us864sh-gaming/p/N82E16834233576"
+    },
+    {
+        "ID": 13,
+        "Product_Name": "ASUS Zenbook Consumer Notebook 14\" WQXGA AMD Ryzen 7 7730U AMD Radeon 16GB 1TB SSD Windows 11 Home UM3402YAR-DS71T-CA",
+        "Price": "$1,199.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/jade-black-asus-zenbook-14-oled-um3402yar-ds71t-ca/p/N82E16834236354"
+    },
+    {
+        "ID": 14,
+        "Product_Name": "Aorus 16 BSF-73US654SH 16.0\" QHD 240 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU (140W) 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$2,499.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725221"
+    },
+    {
+        "ID": 15,
+        "Product_Name": "GIGABYTE AORUS 17X - 17.3\" 16:9 Thin Bezel QHD 2560x1440 240Hz - NVIDIA GeForce RTX 4080 Laptop GPU 12GB GDDR6 - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Pro - Gaming Laptop",
+        "Price": "$3,399.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834725228"
+    },
+    {
+        "ID": 16,
+        "Product_Name": "ASUS Zenbook 14 Duo 14\u201d OLED 1920x1200 Dual Screen Laptop w/ Detachable Keyboard, Intel Core Ultra 7 Processor 155H 1.4 GHz, Intel Arc Graphics, 16GB DDR5, 1TB SSD, Windows 11 Home (UX8406MA-DS71T-CA)",
+        "Price": "$2,199.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/inkwell-gray-asus-zenbook-14-duo-ux8406ma-ds71t-ca/p/N82E16834236495"
+    },
+    {
+        "ID": 17,
+        "Product_Name": "Aorus 15 BKF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725215"
+    },
+    {
+        "ID": 18,
+        "Product_Name": "MSI Modern 14 Laptop C13M-606US Intel i5-1335U 16GB RAM 512 GB SSD 14.0\" Windows 11 Home Intel Iris Xe Graphics",
+        "Price": "$999.00",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/beige-rose-msi-modern-14-c13m-606us-work-business/p/N82E16834156486"
+    },
+    {
+        "ID": 19,
+        "Product_Name": "Aorus 15 BSF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834725214"
+    },
+    {
+        "ID": 20,
+        "Product_Name": "MSI Katana 17 B13V, 17.3\" FHD 144Hz IPS-Level, Intel Core i7-13620H (10-core), NVIDIA GeForce RTX 4070 8GB GDDR6, 16GB DDR5 RAM, 1TB NVMe SSD, Windows 11 Home (B13VGK-645CA)",
+        "Price": "$1,699.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834156549"
+    },
+    {
+        "ID": 21,
+        "Product_Name": "GIGABYTE AORUS 17H - 17.3\" FHD 1920x1080 360Hz Display - NVIDIA GeForce RTX 4080 Laptop GPU 12GB - Intel Core i7-13700H - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 17H BXF-74US554SH)",
+        "Price": "$2,499.99",
+        "Rating": "14",
+        "URL": "https://www.newegg.ca/p/N82E16834233554"
+    },
+    {
+        "ID": 22,
+        "Product_Name": "Aorus 17X Series 17X AZG-65US665SH 17.3'' 240 Hz IPS Intel Core i9-14900HX GeForce RTX 4090 Laptop GPU 32GB Memory 2 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$3,899.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/royal-black-aorus-17x-series-17x-azg-65us665sh-gaming/p/N82E16834233570"
+    },
+    {
+        "ID": 23,
+        "Product_Name": "GIGABYTE G6 Series G6 MF-H2US854KH 16\" 165 Hz IPS Intel Core i7-13620H GeForce RTX 4050 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,299.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/black-gigabyte-g6-series-g6-mf-h2us854kh-gaming/p/N82E16834233582"
+    },
+    {
+        "ID": 24,
+        "Product_Name": "MSI Notebooks Modern 15 AMD Ryzen 5 7000 Series 16GB Memory 512 GB PCIe SSD 15.6\" Windows 11 Home Modern 15 B7M-097CA",
+        "Price": "$799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/classic-black-msi-modern-15-b7m-097ca/p/N82E16834156491"
+    },
+    {
+        "ID": 25,
+        "Product_Name": "MSI Prestige 13 EVO 13.3\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i7-1360P Iris Xe 16GB LPDDR5 512GB NVMe SSD Win 11",
+        "Price": "$999.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/N82E16834156585"
+    },
+    {
+        "ID": 26,
+        "Product_Name": "ASUS ROG Strix SCAR 17 X3D (2023) Gaming Laptop, 17.3\" QHD 240Hz/3ms, 100% DCI-P3 Display, GeForce RTX 4090, AMD Ryzen 9 7945HX3D, 32GB DDR5, 2TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G733PYV-XH97",
+        "Price": "$3,999.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/off-black-asus-rog-strix-scar-17-x3d-g733pyv-xh97-gaming/p/N82E16834236479"
+    },
+    {
+        "ID": 27,
+        "Product_Name": "MSI TITAN 18 HX 18\" UHD+ 120Hz Mini LED Intel\u00ae Core\u2122 i9-14900HX RTX 4080 64GBDDR5 4TB NVMe SSD Win 11 Pro",
+        "Price": "$5,699.00",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834156606"
+    },
+    {
+        "ID": 28,
+        "Product_Name": "GIGABYTE AORUS 15X - 15.6\" 16:9 QHD 2560x1440 165Hz - NVIDIA GeForce RTX 4070 Laptop GPU 8GB - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 15X ASF-D3US754SH)",
+        "Price": "$2,099.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/black-aorus-15x-series-15x-asf-d3us754sh-gaming/p/N82E16834725220"
+    },
+    {
+        "ID": 29,
+        "Product_Name": "GIGABYTE AERO 16 OLED BSF-A3US964SP 16'' 60 Hz OLED Intel Core i9-13900H GeForce RTX 4070 Laptop GPU 32GB Memory 1 TB Gen4 SSD Windows 11 Pro 64-bit Gaming Laptop",
+        "Price": "$2,549.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834233555"
+    },
+    {
+        "ID": 30,
+        "Product_Name": "GIGABYTE G6X Series G6X 9KG-43US864SH 16'' 165 Hz IPS Intel Core i7-13650HX GeForce RTX 4060 Laptop GPU 32GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/gunmetal-gray-gigabyte-g6x-series-g6x-9kg-43us864sh-gaming/p/N82E16834233576"
+    },
+    {
+        "ID": 31,
+        "Product_Name": "ASUS Zenbook Consumer Notebook 14\" WQXGA AMD Ryzen 7 7730U AMD Radeon 16GB 1TB SSD Windows 11 Home UM3402YAR-DS71T-CA",
+        "Price": "$1,199.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/jade-black-asus-zenbook-14-oled-um3402yar-ds71t-ca/p/N82E16834236354"
+    },
+    {
+        "ID": 32,
+        "Product_Name": "Aorus 16 BSF-73US654SH 16.0\" QHD 240 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU (140W) 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$2,499.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725221"
+    },
+    {
+        "ID": 33,
+        "Product_Name": "GIGABYTE AORUS 17X - 17.3\" 16:9 Thin Bezel QHD 2560x1440 240Hz - NVIDIA GeForce RTX 4080 Laptop GPU 12GB GDDR6 - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Pro - Gaming Laptop",
+        "Price": "$3,399.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834725228"
+    },
+    {
+        "ID": 34,
+        "Product_Name": "ASUS Zenbook 14 Duo 14\u201d OLED 1920x1200 Dual Screen Laptop w/ Detachable Keyboard, Intel Core Ultra 7 Processor 155H 1.4 GHz, Intel Arc Graphics, 16GB DDR5, 1TB SSD, Windows 11 Home (UX8406MA-DS71T-CA)",
+        "Price": "$2,199.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/inkwell-gray-asus-zenbook-14-duo-ux8406ma-ds71t-ca/p/N82E16834236495"
+    },
+    {
+        "ID": 35,
+        "Product_Name": "Aorus 15 BKF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,799.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/N82E16834725215"
+    },
+    {
+        "ID": 36,
+        "Product_Name": "MSI Modern 14 Laptop C13M-606US Intel i5-1335U 16GB RAM 512 GB SSD 14.0\" Windows 11 Home Intel Iris Xe Graphics",
+        "Price": "$999.00",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/beige-rose-msi-modern-14-c13m-606us-work-business/p/N82E16834156486"
+    },
+    {
+        "ID": 37,
+        "Product_Name": "Lenovo Notebook ThinkPad E16 1.30GHz 16GB Memory 256 GB SSD Intel Iris Xe Graphics 16.0\" Windows 11 Pro Gen 1",
+        "Price": "$1,150.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/graphite-black-lenovo-thinkpad-e16-gen-1/p/N82E16834840325"
+    },
+    {
+        "ID": 38,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - Core i7 12th Gen 1265U Deca-core (10 Core) 1.80 GHz - 16GB Ram - 256 GB SSD - Windows 10 Pro - Platinum  S8G-00001",
+        "Price": "$1,954.22",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-s8g-00001-platinum/p/N82E16834736751"
+    },
+    {
+        "ID": 39,
+        "Product_Name": "DELL Mobile Workstation 17\" Precision 7780 Intel Core i7 13th Gen 2.10GHz 32GB Memory 512 GB SSD NVIDIA Quadro RTX 4000 17.0\" Windows 11 Pro 7780 Notebook Laptop",
+        "Price": "$4,682.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/dell-precision-7780/p/N82E16834833212"
+    },
+    {
+        "ID": 40,
+        "Product_Name": "MSI Ultra Thin and Light Laptop AMD Ryzen 7 PRO 7730U 16GB Memory 1 TB NVMe SSD AMD Radeon Graphics 15.6\" Windows 11 Pro 64-bit Modern 15 B7M-223US",
+        "Price": "$1,777.99",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/classic-black-msi-modern-15-b7m-223us-work-business/p/N82E16834156499"
+    },
+    {
+        "ID": 41,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - Core i5 12th Gen i5-1245U Deca-core (10 Core) - 16GB RAM - 256GB SSD - Windows 11 Pro - Graphite  QIA-00019",
+        "Price": "$1,715.11",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-tablet-qia-00019-graphite/p/N82E16834736759"
+    },
+    {
+        "ID": 42,
+        "Product_Name": "HP ProBook 450 G10 15.6\" Notebook - Full HD - 1920 x 1080 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz - 8 GB Total RAM - 256 GB SSD - Pike Silver Plastic - Intel Chip - Windows",
+        "Price": "COMING SOON",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000D-1DC26"
+    },
+    {
+        "ID": 43,
+        "Product_Name": "MSI Thin GF63 15.6\" FHD 144Hz IPS Gaming Notebook, Intel Core i5-12450H (4P+4E cores, up to 4.4GHz), NVIDIA GeForce RTX 4060 Laptop GPU, 16GB DDR4, 512GB NVMe SSD, Win 11 Home (Thin GF63 12VF-275CA)",
+        "Price": "$1,291.44",
+        "Rating": "12",
+        "URL": "https://www.newegg.ca/p/N82E16834156489"
+    },
+    {
+        "ID": 44,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - 1.2GHz Intel Core i7 1255U - 16GB DDR5 - 256GB SSD - Windows 11 Pro - Graphite  QIM-00017",
+        "Price": "$1,755.11",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-qim-00017-graphite/p/N82E16834736737"
+    },
+    {
+        "ID": 45,
+        "Product_Name": "Microsoft Surface Pro 9 For Business - 13\" PixelSense Display - Intel i5 1245U - 16GB RAM - 256GB SSD - Intel Xe Graphics - Windows 10 Pro - Platinum  S7B-00001",
+        "Price": "$1,815.55",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/microsoft-surface-pro-9-s7b-00001-platinum/p/N82E16834736747"
+    },
+    {
+        "ID": 46,
+        "Product_Name": "Acer 16\" TravelMate Notebook AMD Ryzen 5 Pro 6650U 16GB Memory 512 GB SSD AMD Radeon 660M Windows 11 Pro",
+        "Price": "$921.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/slate-blue-acer-travelmate-tmp416-41-r6y5/p/N82E16834360240"
+    },
+    {
+        "ID": 47,
+        "Product_Name": "MSI Ultra Thin and Light Laptop Intel Core i7-1355U 16GB Memory 1 TB NVMe SSD Intel Iris Xe Graphics 14.0\" Windows 11 Home 64-bit Modern 14 C13M-621US",
+        "Price": "$1,496.45",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/urban-silver-msi-modern-14-c13m-621us-work-business/p/N82E16834156501"
+    },
+    {
+        "ID": 48,
+        "Product_Name": "MSI Prestige 13 EVO 13.3\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i5-1240P Iris Xe 16GB LPDDR5 512GB NVMe SSD Win 11 Home, A12M-070US",
+        "Price": "$1,688.73",
+        "Rating": "59",
+        "URL": "https://www.newegg.ca/pure-white-msi-prestige-13evo-a12m-070us-work-business/p/N82E16834156460"
+    },
+    {
+        "ID": 49,
+        "Product_Name": "ASUS Zenbook Pro 14 Duo 14.5\" 16:10 Touch Display, 120Hz Refresh Rate, ScreenPad Plus, Intel i9-13900H CPU, NVIDIA GeForce RTX 4060, 32GB RAM, 1TB SSD, Windows 11 Home, Tech Black, UX8402VV-PS96T",
+        "Price": "$4,377.45",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/tech-black-asus-zenbook-pro-14-duo-oled-ux8402vv-ps96t-content-creation-home-personal/p/N82E16834236457"
+    },
+    {
+        "ID": 50,
+        "Product_Name": "MSI Laptop Modern 14 Intel Core i5 11th Gen 1155G7 (2.50GHz) 8GB Memory 512 GB NVMe SSD Intel Iris Xe Graphics 14.0\" Windows 11 Home 64-bit Modern 14 B11MOU-1024",
+        "Price": "$1,777.99",
+        "Rating": "220",
+        "URL": "https://www.newegg.ca/msi-modern-14b-b11mou-1024/p/N82E16834156246"
+    },
+    {
+        "ID": 51,
+        "Product_Name": "MSI PRESTIGE 14 EVO 14\" FHD+ Ultra Thin and Light Professional Laptop Intel\u00ae Core\u2122 i7-13700H Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro, B13M-269US",
+        "Price": "$2,802.99",
+        "Rating": "59",
+        "URL": "https://www.newegg.ca/urban-silver-msi-prestige-14evo-b13m-269us-work-business/p/N82E16834156439"
+    },
+    {
+        "ID": 52,
+        "Product_Name": "Lenovo IdeaPad Slim 3 15AMN8 15.6\" FHD IPS Laptop, AMD Ryzen 5 7520U Quad Core 2.8GHz-4.3GHz, AMD Radeon 610M Graphics, 8GB DDR5 RAM, 512GB SSD, 720p Camera With Privacy Shutter, Windows 11 Home, Abys",
+        "Price": "$675.99",
+        "Rating": "13",
+        "URL": "https://www.newegg.ca/abyss-blue-lenovo-ideapad-slim-3-15amn8-home-personal-mainstream-work-business/p/N82E16834840348"
+    },
+    {
+        "ID": 53,
+        "Product_Name": "Lenovo IdeaPad Flex 5 14ALC7 14\" 8GB 256GB SSD AMD Ryzen 5 5500U 3GHz WIN11H, Stone Blue",
+        "Price": "$1,712.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/stone-blue-lenovo-ideapad-flex-5-14alc7-home-personal/p/1TS-000E-10G35"
+    },
+    {
+        "ID": 54,
+        "Product_Name": "LG Gram Laptop Intel Core i7 11th Gen 1165G7 (2.80GHz) 16GB Memory 1 TB M.2 SSD Intel Iris Xe Graphics 15.6\" Windows 10 Pro 64-bit 15Z90P-N.APS7U1",
+        "Price": "$3,570.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/lg-gram-15z90p-n-aps7u1-home-personal/p/1TS-002J-001M4"
+    },
+    {
+        "ID": 55,
+        "Product_Name": "CHUWI HeroBook Pro 14.1'' Laptop Computer, 8GB RAM 256GB SSD, Windows 11 Laptop, Intel Celeron N4020 Processor, 1920x1080 FHD Display, Ultra Slim Notebook PC, WiFi, BT4.2",
+        "Price": "$369.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-006G-00057"
+    },
+    {
+        "ID": 56,
+        "Product_Name": "CHUWI 15.6'' GemiBook Plus Laptop Computer, Windows 11 Laptop 12th Gen Intel Alder Lake N100 (Up to 3.4GHz) 16GB RAM 512GB SSD PCIE, 1920X1080 HD Display Ultra Thin Laptop,HDMI/WiFi6/BT5.2/Webcam/38WH",
+        "Price": "$515.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/grey-chuwi-gemibook-plus-home-personal/p/1TS-006G-00079"
+    },
+    {
+        "ID": 57,
+        "Product_Name": "Hasee X4 (14'', i3, Full-Aluminum), Touch Bar Laptop Computer, i3-6157U 2.4GHz 2-Core, 8G Dual-Channel DDR4 RAM, 512G M.2 SSD, 14'' FHD 100%sRGB IPS Display, Backlit KB, WF, BT, Win11, Dusty Blue",
+        "Price": "$423.99",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/aluminum-blue-hasee-x4-haus01-mainstream/p/1TS-00F6-00010"
+    },
+    {
+        "ID": 58,
+        "Product_Name": "HP 15 Laptop, 15.6\" IPS FHD Display, Intel Core i5-1135G7 Upto 4.2GHz, 16GB RAM, 512GB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro S",
+        "Price": "$919.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/silver-hp-15/p/1TS-000D-0MD52"
+    },
+    {
+        "ID": 59,
+        "Product_Name": "CHUWI GemiBook XPro 14.1\" Laptop 256GB SSD 8GB DDR5 3.4GHz Intel N100 Quad Core Windows11 Gaming Notebook Computer WIFI 6 1920*1080 IPS Display",
+        "Price": "$405.00",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/p/1TS-006G-00059"
+    },
+    {
+        "ID": 60,
+        "Product_Name": "Refurbished HP EliteBook 840 G5 Intel Core i5 8th Gen 8350U (1.70GHz) 16 GB Memory 256 GB SSD Intel UHD Graphics 620 14.0\" Windows 11 Pro 64-bit",
+        "Price": "$344.99",
+        "Rating": "27",
+        "URL": "https://www.newegg.ca/hp-elitebook-840-g5/p/N82E16834273168"
+    },
+    {
+        "ID": 61,
+        "Product_Name": "Refurbished HP EliteBook 840 G3 Laptop Intel Core i5 6th Gen 6300U (2.40 GHz) 16 GB Memory 512 GB SSD Intel HD Graphics 520 14.0\" Windows 10 Pro 64-bit A Grade",
+        "Price": "$399.99",
+        "Rating": "94",
+        "URL": "https://www.newegg.ca/hp-elitebook-840-g3/p/N82E16834271970"
+    },
+    {
+        "ID": 62,
+        "Product_Name": "Refurbished 14\" HP Elitebook 840 G4 Laptop - Intel Core i7 2.8 GHz, 16GB RAM, 1TB SSD, 1920x1080 FHD, Windows 10 Pro - Grade B",
+        "Price": "$549.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000D-110P7"
+    },
+    {
+        "ID": 63,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480 14\" Full HD 1920 x 1080 Touchscreen Ultrabook- 8th Gen Intel QUAD Core i7-8650U 1.9GHz  32 GB RAM DDR4 1TB SSD,Wi-Fi, Bluetooth, Webcam Windows 11 Pro",
+        "Price": "$776.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-0WW96"
+    },
+    {
+        "ID": 64,
+        "Product_Name": "Refurbished Dell Latitude 3340 13.3\" LED Laptop 4th Gen Intel Core i5 CPU 8 GB DDR3 RAM 500 GB HD HDMI WiFi Webcam Windows 10 Home",
+        "Price": "$241.49",
+        "Rating": "3",
+        "URL": "https://www.newegg.ca/chocolate-black-dell-e-series-latitude-everyday-value/p/1TS-000A-0C6E2"
+    },
+    {
+        "ID": 65,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480 14\" Full HD 1920 x 1080 Touchscreen Ultrabook- 8th Gen Intel QUAD Core i7-8650U 1.9GHz  32 GB RAM DDR4 512 GB SSD,Wi-Fi, Bluetooth, Webcam Windows 11 Pro",
+        "Price": "$734.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-0WW88"
+    },
+    {
+        "ID": 66,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480s 14\" Full HD 1920 x 1080 Ultrabook- 8th Gen Intel QUAD Core i7-8650U 1.9GHz  16 GB RAM DDR4 256 GB SSD,Wi-Fi, Bluetooth,Webcam  Windows 10 Pro",
+        "Price": "$797.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-0ZZV0"
+    },
+    {
+        "ID": 67,
+        "Product_Name": "Refurbished Lenovo Thinkpad T480 14\" Full HD 1920 x 1080 Touchscreen Ultrabook - 8th Gen Intel QUAD Core i5-8350U 1.7GHz  16 GB RAM DDR4 256 GB SSD,Wi-Fi, Bluetooth, Webcam Windows 11 Pro",
+        "Price": "$813.74",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-mainstream/p/1TS-000E-145C1"
+    },
+    {
+        "ID": 68,
+        "Product_Name": "MSI Katana 15 B12VFK-237CA 15.6\" 144 Hz Intel Core i7 12th Gen 12650H (2.30GHz) NVIDIA GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+        "Price": "$1,954.99",
+        "Rating": "12",
+        "URL": "https://www.newegg.ca/p/N82E16834156449"
+    },
+    {
+        "ID": 69,
+        "Product_Name": "Dell - Inspiron 15 3520 Touch Laptop - Intel Core i5 - Intel UHD - 8GB Memory - 256GB SSD - Carbon Black\nNotebook i3520-5810BLK-PUS",
+        "Price": "$644.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000A-0ZNG2"
+    },
+    {
+        "ID": 70,
+        "Product_Name": "ASUS VivoBook 16 Laptop, 16\u201d WUXGA (1920 x 1200) 16:10 Display, AMD Ryzen 9 7940HS CPU 4.0GHz, AMD Radeon Graphics, 16GB RAM, 1TB SSD, Windows 11 Home, Cool Silver, M1605XA-EB96",
+        "Price": "$1,129.99",
+        "Rating": "2",
+        "URL": "https://www.newegg.ca/p/N82E16834236478"
+    },
+    {
+        "ID": 71,
+        "Product_Name": "ASUS Laptop L410 Ultra Thin Laptop, 14\" FHD Display, Intel Celeron N4020 Processor, 4 GB RAM, 64 GB Storage, NumberPad, Windows 10 Home in S Mode, Star Black, L410MA-DB02",
+        "Price": "$267.00",
+        "Rating": "23",
+        "URL": "https://www.newegg.ca/black-asus-l410ma-db02/p/1TS-001A-02J29"
+    },
+    {
+        "ID": 72,
+        "Product_Name": "Lenovo IdeaPad Gaming 3 15.6\" 60Hz i5-10300 8GB RAM 256GB SSD 1TB HDD GTX 1650 4GB GDDR6 Only Black - 10th Gen i5-10300H Quad-Core - NVIDIA GeForce GTX 1650 4GB - Up to 4.5 GHz CPU Speed - In-pla",
+        "Price": "$859.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/p/1TS-000E-0K040"
+    },
+    {
+        "ID": 73,
+        "Product_Name": "MSI Laptop Intel Core i5-1135G7 16GB Memory 512 GB NVMe SSD Intel Iris Xe Graphics 14.0\" Windows 10 Home 64-bit Prestige 14 Evo A11M-288",
+        "Price": "$749.99",
+        "Rating": "59",
+        "URL": "https://www.newegg.ca/msi-prestige-14-evo-a11m-288/p/N82E16834155698"
+    },
+    {
+        "ID": 74,
+        "Product_Name": "Microsoft Laptop Surface Laptop Go Intel Core i5-1035G1 4 GB LPDDR4X Memory 64 GB eMMC SSD Intel UHD Graphics 12.4\" Touchscreen Windows 10 in S mode 1ZO-00001",
+        "Price": "$450.99",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/platinum-microsoft-surface-laptop-go-1zo-00001-mainstream/p/N82E16834736380"
+    },
+    {
+        "ID": 75,
+        "Product_Name": "Refurbished HP 840 G6 EliteBook Laptop Intel Core i5 -8365U (1.60GHz) 16GB Memory 256 GB SSD Intel UHD Graphics 14.0\" Windows 11 Pro 64-bit",
+        "Price": "$322.00",
+        "Rating": "11",
+        "URL": "https://www.newegg.ca/hp-elitebook-840-g6-work-business/p/N82E16834273967"
+    },
+    {
+        "ID": 76,
+        "Product_Name": "Refurbished Lenovo Grade A Laptop ThinkPad T460 Intel Core i5 6th Gen 6300U (2.40GHz) 8GB Memory 256 GB SSD Intel HD Graphics 520 14.0\" Windows 10 Pro 64-bit",
+        "Price": "$340.00",
+        "Rating": "6",
+        "URL": "https://www.newegg.ca/black-lenovo-thinkpad-t460-work-business/p/N82E16834645879"
+    },
+    {
+        "ID": 77,
+        "Product_Name": "Refurbished Lenovo Grade A Laptop ThinkPad T480 Intel Core i5 8th Gen 8350U (1.70GHz) 8GB Memory 256 GB SSD Intel UHD Graphics 620 14.0\" Windows 10 Pro 64-bit",
+        "Price": "$409.22",
+        "Rating": "9",
+        "URL": "https://www.newegg.ca/lenovo-thinkpad-t480/p/N82E16834645912"
+    },
+    {
+        "ID": 78,
+        "Product_Name": "Refurbished Lenovo Grade B Laptop ThinkPad Intel Core i7-5600U 12GB Memory 256 GB SSD 14.0\" Windows 10 Pro 64-bit T450s",
+        "Price": "$438.75",
+        "Rating": "6",
+        "URL": "https://www.newegg.ca/lenovo-thinkpad-t450s/p/N82E16834850657"
+    },
+    {
+        "ID": 79,
+        "Product_Name": "Refurbished Lenovo Grade A Laptop ThinkPad Intel Core i5-6300U 8GB Memory 256 GB SSD Intel HD Graphics 520 14.0\" Windows 10 Pro 64-bit T460S",
+        "Price": "$300.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/lenovo-thinkpad-t460s/p/N82E16834645898"
+    },
+    {
+        "ID": 80,
+        "Product_Name": "Refurbished Dell Latitude 5501 Laptop 15.6\" - GRADE A - Intel Core i7 9th Gen - i7-9850H - Six Core 4.6Ghz - 512GB SSD - 16GB RAM - 1920x1080 FHD - Webcam - Backlit Keyboard - Windows 11 Pro",
+        "Price": "$589.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/dell-latitude-5501-work-business/p/1TS-000A-0YYW4"
+    },
+    {
+        "ID": 81,
+        "Product_Name": "Refurbished Acer Aspire 5 - 15.6\" FHD AMD Ryzen 7-5700U, 16GB RAM, 512GB SSD PCIe, Finger Print Reader,  Silver, Windows 11, 1 Year Acer Manufacturer Warranty (A515-45)",
+        "Price": "$629.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/acer-aspire-5-a515-45-r209-home-personal/p/1TS-000X-03GY0"
+    },
+    {
+        "ID": 82,
+        "Product_Name": "Refurbished Acer Aspire 5 - 15.6\" FHD AMD Ryzen 7-5700U, 16GB RAM, 512GB SSD PCIe, Finger Print Reader,  Silver, Windows 11, 1 Year Acer Manufacturer Warranty (A515-45)",
+        "Price": "$629.00",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/acer-aspire-5-a515-45-r209-home-personal/p/1TS-000X-03GY0"
+    },
+    {
+        "ID": 83,
+        "Product_Name": "Refurbished 2020 Dell Precision 3551 Laptop 15.6\" - Intel Core i7 10th Gen - i7-10850H - Six Core 5.1Ghz - 256GB SSD - 16GB RAM - Nvidia Quadro P620 2GB - 1920x1080 FHD - Windows 10 Pro Silver",
+        "Price": "$1,201.39",
+        "Rating": "1",
+        "URL": "https://www.newegg.ca/dell-precision-3551-laptop-workstation/p/1TS-000A-0FKA5"
+    }
+]
