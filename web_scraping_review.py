@@ -58,7 +58,7 @@ updated_count = 0
 # Loop through each product in products.json, processing the first 20 available URLs
 for product in products_data:
     url = product.get("URL")
-    if not product.get("product_detail"):
+    if not product.get("product_detail") and url !="Unknown href":
         # Scrape product details
         try:
             product_details = scrape_product_details(url)
@@ -70,7 +70,7 @@ for product in products_data:
             updated_count += 1
 
             # Break the loop after updating 20 products
-            if updated_count >= 20:
+            if updated_count >= 50:
                 break
         except Exception as e:
             print(f"Error processing {url}: {e}")
